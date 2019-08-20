@@ -1,0 +1,170 @@
+{
+  "euro": [
+    {
+      "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+      "poloPRO": "ffffffffffff",
+      "nain1": "iiiiiiii",
+      "nain2": "iiiiiiii",
+      "nain3": "iiiiiiii",
+      "nain4": "iiiiiiii",
+      "bain1": "bbbbbbbb",
+      "bain2": "bbbbbbbb",
+      "stor": "https://play.google.com/store/apps/developer?id=agani_+music_mp3",
+      "imageurl":"https://img.discogs.com/RdlWylwvD14LnKO6c49YTmHTZmI=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-4472535-1435096910-5013.jpeg.jpg",
+      "FAban": "",
+      "FAint": "",
+      "isadsFG": ""
+    }
+  ],
+  "obPhoto": [
+    {
+      "photo": "https://media.ticketland.ru/images/420x270/show/3782505/4.png"
+    },
+    {
+      "photo": "http://st4.styapokupayu.ru/images/blog_posts/covers/000/140/065_large.jpg?1444660511"
+    },
+    {
+      "photo": "https://avatars.yandex.net/get-music-content/113160/168b5c55.p.666984/m1000x1000"
+    },
+    {
+      "photo": "https://citaty.info/files/posters/179008.jpg"
+    },
+    {
+      "photo": "https://erger.am/images/artists/artik.jpg"
+    },
+    {
+      "photo": "http://www.starway-magazine.com/wp-content/uploads/2017/06/20.06.16_Image_4631_2.jpg"
+    },
+    {
+      "photo": "https://24smi.org/public/media/resize/800x-/celebrity/2018/08/20/wm5a2mxw3cml-gruppa-artik-asti.jpg"
+    },
+    {
+      "photo": "https://lastfm-img2.akamaized.net/i/u/770x0/000b6b26e7882ccba50965d167a1fe6f.jpg"
+    },
+    {
+      "photo": "https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_potselui.jpg"
+    },
+    {
+      "photo": "https://ic.pics.livejournal.com/yurymihalich/26762333/527262/527262_600.jpg"
+    },
+    {
+      "photo": "https://samunas.ru/image/artik-asti-neveroyatno-2018.jpg"
+    },
+    {
+      "photo": "https://avatars.mds.yandex.net/get-pdb/1943199/e7ca9a66-ce97-46fb-87cf-447056880cb8/s375"
+    },
+    {
+      "photo": "http://mayaksbor.ru/upload/medialibrary/10d/10dda9ab1528fef21bbb1eac080ecc90.jpg"
+    },
+    {
+      "photo": "https://img03.rl0.ru/dbba3d00446549e17f80ba71edddbc02/c300x450/nightparty.ru/uploads/event/c/d6/cd6d7dd0afc5494facb2750c7393dbe6.jpg"
+    },
+    {
+      "photo": "https://sochi.com/upload/iblock/eb0/600x600sr.jpg"
+
+    }
+  ],
+  "media": [
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":" Грустный дэнс",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/1.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Никому не отдам",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/2.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Забудешь",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/3.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":" Неделимы",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/4.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Мне не нужны",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/5.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Кто я тебе ",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/6.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Так Было",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/7.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Половина Выпускнои",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/8.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Привет",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/9.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Очень очень",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/10.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":" Тебе все можно",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/11.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Моя последняя надежда",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/12.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Я твоя",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/13.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Роза",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/14.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":" Осколки",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/15.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"До утра",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/16.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":" Необыкновенная",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/17.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"По проспектам",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/18.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Под гипнозом",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/19.mp3"
+    },
+    {
+      "imageurl":"https://www.dm-dobrov.ru/uploads/images/a/r/t/artik_pres_asti_mne_ne_nuzhni_s_neba_zvezdi.jpg",
+      "name":"Облака",
+      "uel":"https://ia601407.us.archive.org/7/items/11_20190820_20190820/20.mp3"
+    
+    }
+  ]
+}
