@@ -1,0 +1,269 @@
+{
+  "euro": [
+    {
+      "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+      "poloPRO": "ffffffffffff",
+      "nain1": "iiiiiiii",
+      "nain2": "iiiiiiii",
+      "nain3": "iiiiiiii",
+      "nain4": "iiiiiiii",
+      "bain1": "bbbbbbbb",
+      "bain2": "bbbbbbbb",
+      "stor": "https://play.google.com/store/apps/developer?id=agani_+music_mp3",
+      "imageurl":"https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2018/02/06232141/44864-news.png",
+      "FAban": "",
+      "FAint": "",
+      "isadsFG": ""
+    }
+  ],
+  "obPhoto": [
+    {
+      "photo": "http://www.fanphobia.net/uploads/actors/6487/don-williams-latest-wallpaper.jpg"
+    },
+    {
+      "photo": "https://folkworks.org/images/stories/2017-March/Merle_Haggard.jpg"
+    },
+    {
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/41M-SOfX2rL.jpg"
+    },
+    {
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/81qa%2BF6F%2B%2BL._SY355_.jpg"
+    },
+    {
+      "photo": "https://fanart.tv/fanart/music/741bd697-e595-4e47-a97d-688b4b9e0df2/artistbackground/williams-don-514eef4c61791.jpg"
+    },
+    {
+      "photo": "http://www3.pictures.zimbio.com/gi/2013+Stagecoach+California+Country+Music+Festival+kWYFyXONF3kx.jpg"
+    },
+    {
+      "photo": "https://i2-prod.mirror.co.uk/incoming/article11137031.ece/ALTERNATES/s615b/VARIOUS-1980.jpg"
+    },
+    {
+      "photo": "https://i.cbc.ca/1.4282456.1504969587!/fileImage/httpImage/image.jpg_gen/derivatives/original_780/obit-don-williams.jpg"
+    },
+    {
+      "photo": "http://countryzone.net/ladmin/soubory/countryzone/Image/DonWilliams2012/velke/57233037a07.jpg"
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMqpC4ifWbkpmuXLxkSU2WKAUQu2UZSYxvzzDB-s6ksJPCTCe"
+    },
+    {
+      "photo": "http://newshub.org/img/article/400/country-singer-don-williams-dead-78-27360610.jpg"
+    },
+    {
+      "photo": "https://www.nairaland.com/attachments/5936948_cdnph_upi_comcountrysgentlegiantdonbd411d0bcae115f4bec72f46d8d8111dc5feca2e_jpeg9aa76fbec50e6bfdd72ad16e1e1e3f10"
+    },
+    {
+      "photo": "https://media2.fdncms.com/stranger/imager/u/original/25403109/1504906964-51zdr7z4ivl._sy445_.jpg"
+    },
+    {
+      "photo": "https://www.sde.co.ke/sdemedia/sdeimages/saturday/mrofqk0cnsfajwbmd59b385c51ec38.jpg"
+    },
+    {
+      "photo": "https://www.nairaland.com/attachments/5937776_musiciandonwilliamsperformsindianapolisindianaapril71990pictureid525166715_jpeg105514cefa4c818eea92bb6211c966f5"
+
+    }
+  ],
+  "media": [
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Sing Me Back Home",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/1.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"You're My Best Friend",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/2.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Lord, I hope this day is good",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/3.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Tulsa Time",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/4.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"I Believe In You",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/5.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Desperately loving you desperately with lyrics",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/6.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Some broken hearts never mend",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/7.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Good Ole Boys Like Me",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/8.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":" Ill Be Here In The Morning",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/9.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":" It Must Be Love",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/10.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Amanda",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/11.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":" Lou Harris - If I Needed You",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/12.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"AND LOVE ME TONIGHTDON WILLIAMS",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/13.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Lay Down Beside Me",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/14.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Healing Hands",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/15.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"We Should Be Together",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/16.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":" If Hollywood don't need you",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/17.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"I've Been Loved by the Best",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/18.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Sweet Fever",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/19.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Ruby Tuesday",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/20.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Sing Me Back Home",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/1.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"You're My Best Friend",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/2.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Lord, I hope this day is good",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/3.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Tulsa Time",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/4.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"I Believe In You",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/5.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Desperately loving you desperately with lyrics",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/6.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Some broken hearts never mend",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/7.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Good Ole Boys Like Me",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/8.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":" Ill Be Here In The Morning",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/9.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":" It Must Be Love",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/10.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Amanda",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/11.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":" Lou Harris - If I Needed You",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/12.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"AND LOVE ME TONIGHTDON WILLIAMS",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/13.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Lay Down Beside Me",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/14.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Healing Hands",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/15.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"We Should Be Together",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/16.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":" If Hollywood don't need you",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/17.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"I've Been Loved by the Best",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/18.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Sweet Fever",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/19.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg",
+"name":"Ruby Tuesday",
+"uel":"https://ia601503.us.archive.org/28/items/3_20190710_20190710_1805/20.mp3"
+}
+]
+}
