@@ -1,0 +1,130 @@
+{
+  "euro": [
+    {
+      "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+      "poloPRO": "ffffffffffff",
+      "nain1": "iiiiiiii",
+      "nain2": "iiiiiiii",
+      "nain3": "iiiiiiii",
+      "nain4": "iiiiiiii",
+      "bain1": "bbbbbbbb",
+      "bain2": "bbbbbbbb",
+      "stor": "https://play.google.com/store/apps/developer?id=WhatsApp+Inc.",
+      "imageurl":"jpg",
+      "FAban": "",
+      "FAint": "",
+      "isadsFG": ""
+    }
+  ],
+  "obPhoto": [
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+
+    }
+  ],
+  "media": [
+    {
+      "imageurl":"jpg",
+      "name":"Suzie Q",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/1.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":" Out My Back Door",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/2.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":" Molina",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/3.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":"Travellin' Band",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/4.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":" Bad Moon Rising",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/5.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":"I Put a Spell on You+Lyrics",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/6.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":"Someday Never Comes",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/7.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":" Green River",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/8.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":"Creedence Clearwater Revival",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/9.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":" Have you ever seen the rain",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/10.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":"Fortunate Son",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/11.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":"The Midnight Special",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/12.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":"Down On The Corner",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/13.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":" Born On The Bayou",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/14.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":"Cottonfields",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/15.mp3"
+    },
+    {
+      "imageurl":"jpg",
+      "name":"Proud Mary",
+      "uel":"https://ia601509.us.archive.org/9/items/14_20190904/16.mp3"
+   
+    
+    }
+  ]
+}
