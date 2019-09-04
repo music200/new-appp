@@ -10,7 +10,7 @@
       "bain1": "bbbbbbbb",
       "bain2": "bbbbbbbb",
       "stor": "https://play.google.com/store/apps/developer?id=WhatsApp+Inc.",
-      "imageurl":"jpg",
+      "imageurl":"https://img04.rl0.ru/505c49089acea03dfb15d3c2332dcf13/c300x450/nightparty.ru/uploads/event/8/f0/8f089ae450514bb5901c0dd70743789d.jpg",
       "FAban": "",
       "FAint": "",
       "isadsFG": ""
@@ -18,130 +18,113 @@
   ],
   "obPhoto": [
     {
-      "photo": "jpg"
+      "photo": "https://avatars.mds.yandex.net/get-afishanew/29022/bf96ea57910baaa6bebbd86645834f08/orig"
     },
     {
-      "photo": "jpg"
+      "photo": "https://music-channel24.com/wp-content/uploads/2019/07/artur-pirozhkov-alkogolichka-pre-750x422.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://avatars.mds.yandex.net/get-afishanew/28638/44ff5f1dc6dca5b7f385999fea650ca7/orig"
     },
     {
-      "photo": "jpg"
+      "photo": "https://img07.rl0.ru/4f85b0a78f6e4f9ec1cfe3ab57d927e4/c300x450/nightparty.ru/uploads/event/7/62/762fef3ce736406ebe01909aaece9d9e.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://pbs.twimg.com/media/D1B0yo_WkAApEKD.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://gazeta.a42.ru/uploads/961/9613f4d0-099d-11e9-942d-458b1ed6b8e0.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://img.joinfo.ua/i/2018/09/5baa13c57c539.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://img.joinfo.ua/i/2018/07/800x0/5b461c80c6f6a.jpg"
  },
     {
-      "photo": "jpg"
-    },
-    {
-      "photo": "jpg"
-    },
-    {
-      "photo": "jpg"
-    },
-    {
-      "photo": "jpg"
-    },
-    {
-      "photo": "jpg"
-    },
-    {
-      "photo": "jpg"
-    },
-    {
-      "photo": "jpg"
+      "photo": "https://rusradio.ru/uploads/a9/b2/7a87bf047bfc4f2349299755bcec.jpg"
+   
 
     }
   ],
   "media": [
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":" Алкоголичка Премьера клипа",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/1.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"Зацепила Премьера клипа ",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/2.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"Запутался",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/3.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"Чика",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/4.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"любовь Official",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/5.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"какчелентано",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/6.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"Я буду помнить",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/7.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"Любовь",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/8.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"На лету лето",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/9.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"Не плачь, девчонка",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/10.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"и Вера Брежнева - Luna",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/11.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":" Пэрэдайс",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/12.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"Будь собой",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/14.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"Я - звезда",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/15.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"Красивая песня",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/16.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://news.rambler.ru/img/2018/02/06063055.848287.1535.jpeg",
       "name":"Плачь, детка!",
       "uel":"https://ia601406.us.archive.org/14/items/5_20190903_201909/17.mp3"
   
