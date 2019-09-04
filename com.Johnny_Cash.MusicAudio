@@ -10,7 +10,7 @@
       "bain1": "bbbbbbbb",
       "bain2": "bbbbbbbb",
       "stor": "https://play.google.com/store/apps/developer?id=WhatsApp+Inc.",
-      "imageurl":"jpg",
+      "imageurl":"https://wallsdesk.com/wp-content/uploads/2016/11/Johnny-Cash-Sexy-Wallpapers.jpeg",
       "FAban": "",
       "FAint": "",
       "isadsFG": ""
@@ -18,139 +18,143 @@
   ],
   "obPhoto": [
     {
-      "photo": "jpg"
+      "photo": "https://i.pinimg.com/736x/2e/d8/fa/2ed8fa3dbcd9a3e6f89fad473c3779b5--my-style-ears.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/513R85Qg2LL._SY445_.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://www.morrisonhotelgallery.com/images/big/13911.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://images-na.ssl-images-amazon.com/images/I/514EIV%2BA70L.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://imgc.allpostersimages.com/img/Lamination/posters/johnny-cash-london-1959_a-L-13856653-0.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://static.posters.cz/image/1300/plakatok/johnny-cash-walk-the-line-i6635.jpg"
     },
     {
-      "photo": "jpg"
+      "photo": "https://imgc.allpostersimages.com/img/print/u-g-P6ZRI70.jpg?w=550&h=550&p=0"
     },
     {
-      "photo": "jpg"
+      "photo": "https://preview.redd.it/wa51ktj5t80z.jpg?auto=webp&s=574dd3b18565b20ae1f417baf7f1ec5d78d7675b"
+ },
+    {
+      "photo": "https://wallperio.com/data/out/200/johnny-cash-wallpaper_606168633.jpg"
+   
 
     }
   ],
   "media": [
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"God's Gonna Cut You Down",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/1.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"AIN'T NO GRAVE",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/2.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Ring of Fire",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/3.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Heart Of Gold",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/4.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":" Sunday Morning Coming Down",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/5.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Redemption Day",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/6.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"I Hung My Head ",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/7.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Ghost Riders in the Sky ",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/8.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"One",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/9.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":" A Boy Named Sue",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/10.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"I Walk The Line",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/11.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Man In Black",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/12.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":" I've Been Everywhere - With Lyrics",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/13.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"I'll Fly Away",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/14.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Wayfaring Stranger",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/15.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Legend of John Henry's Hammer",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/16.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":" Hey Porter",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/17.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Four Strong Winds",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/18.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Devil's right Hand",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/19.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":" If You Could Read My Mind",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/20.mp3"
 	   },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Waylon Jennings",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/21.mp3"
     },
     {
-      "imageurl":"jpg",
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Big Iron",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/22.mp3"
  
