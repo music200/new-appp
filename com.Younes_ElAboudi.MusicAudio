@@ -1,0 +1,329 @@
+{
+  "euro": [
+    {
+      "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+      "poloPRO": "ffffffffffff",
+      "nain1": "iiiiiiii",
+      "nain2": "iiiiiiii",
+      "nain3": "iiiiiiii",
+      "nain4": "iiiiiiii",
+      "bain1": "bbbbbbbb",
+      "bain2": "bbbbbbbb",
+      "stor": "https://play.google.com/store/apps/developer?id=agani_+music_mp3",
+      "imageurl":"jpg",
+      "FAban": "",
+      "FAint": "",
+      "isadsFG": ""
+    }
+  ],
+  "obPhoto": [
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+
+    }
+  ],
+  "media": [
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"الشوك",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/alshok.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" حفلة البحرين ج 1",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/7flt-Alb7ryn-G-1.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"حفلة البحرين ج 2",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/7flt-Alb7ryn-G-2.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"م/ امس ودعته",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-ams-wad3ta.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"م/ باجر يا صابر",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M-W_Bacher_Ya_Saber.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"م/ بيا نار",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Bya_Nar.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ حميد",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-7mayed.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ كلشي يصير",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Kolshe_Yser.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"  م/ لو ردت الحب تعود",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-lo-redt-ll7ob-t3od.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"م/ ليا ديره",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Lia_Dera.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ ما نومان",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Ma_Noman.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ مليتك ",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Maletak.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ وديت مكتوب",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-wadet-maktoob.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ يا صبر",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Ya_Sabor.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ يا هلي",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Ya_Hali.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ ياسمر دخيلك",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-ya-asmar-da5elak.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"م/ يالهودلاني",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-yal-hodlane.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" موال +الحنينه",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-al7nynh.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" موال +الشوك اخذني",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-alshwk-Akhzny.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" موال +الكم تعنيت",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-alkm-T3nyt.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"موال +بكل الحب حبيتك",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-bklEL-7ob7bytk.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" موال +مايدرون",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-maydrwn.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"موال +ياولفي اخذني",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-yawlfy-Akhzny.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"موال واغنية ياخوي",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-Waghnyt-Yakhwy.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" يا ولفي",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/ya-welfi.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" يا ولفي -2",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/ya-welfi-2.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"الشوك",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/alshok.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" حفلة البحرين ج 1",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/7flt-Alb7ryn-G-1.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"حفلة البحرين ج 2",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/7flt-Alb7ryn-G-2.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"م/ امس ودعته",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-ams-wad3ta.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"م/ باجر يا صابر",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M-W_Bacher_Ya_Saber.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"م/ بيا نار",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Bya_Nar.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ حميد",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-7mayed.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ كلشي يصير",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Kolshe_Yser.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"  م/ لو ردت الحب تعود",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-lo-redt-ll7ob-t3od.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"م/ ليا ديره",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Lia_Dera.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ ما نومان",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Ma_Noman.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ مليتك ",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Maletak.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ وديت مكتوب",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-wadet-maktoob.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ يا صبر",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Ya_Sabor.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ يا هلي",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/M_W_Ya_Hali.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" م/ ياسمر دخيلك",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-ya-asmar-da5elak.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"م/ يالهودلاني",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/m-w-yal-hodlane.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" موال +الحنينه",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-al7nynh.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" موال +الشوك اخذني",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-alshwk-Akhzny.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" موال +الكم تعنيت",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-alkm-T3nyt.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"موال +بكل الحب حبيتك",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-bklEL-7ob7bytk.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" موال +مايدرون",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-maydrwn.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"موال +ياولفي اخذني",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-yawlfy-Akhzny.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":"موال واغنية ياخوي",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/Mwal-Waghnyt-Yakhwy.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" يا ولفي",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/ya-welfi.mp3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnBbKoL5ZF94%2Fhqdefault.jpg",
+"name":" يا ولفي -2",
+"uel":"http://www.s1.bagdady.com/songs/yunes-alabode/ya-welfi-2.mp3"
+    }
+  ]
+}
