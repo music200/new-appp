@@ -1,140 +1,44 @@
 {
   "obApp": [
     {
-        "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDVkYDiZU0AIR8Zs.jpg&f=1&nofb=1",
-      "url": "com.Marshmello.MusicAudio"
+        "app": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.nojXaBMooyAk18GAlHlAPgHaEK%26pid%3DApi&f=1",
+      "url": "free_music.MCAle_PerdoaMae"
     },
     {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimg.muz1.tv%2Fimg%2F2018-05-07%2Ffmt_94_24_rasa-2.jpg&f=1&nofb=1",
-      "url": "com.RASA.MusicAudio"
+      "app": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa-%2FAAuE7mA5v2NJWZMq9P_SiSy2VXHxBcFfg9G4BSN58g%3Ds900-mo-c-c0xffffffff-rj-k-no&f=1&nofb=1",
+      "url": "free_music.katya_adushkina"
     },
     {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPuCF-Rpol-A%2Fmaxresdefault.jpg&f=1&nofb=1",
-      "url": "com.frandzona.MusicAudio"
+      "app": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.rO2bvu3RpXEkEl-6JvhnrQHaEK%26pid%3DApi&f=1",
+      "url": "free_music.Music_Old_Town_Road"
     },
     {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2FC1ZVGRpHCUS._SL1000_.jpg&f=1&nofb=1",
-      "url": "com.Sfera_Ebbasta.MusicAudio"
+      "app": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.oZk-ZAuEQXZh0vPPtyenmAHaDt%26pid%3DApi&f=1",
+      "url": "ree_music.Polo_G"
     },
     {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.hOSz7jregShC89Kjxh33oAHaEK%26pid%3DApi&f=1",
-      "url": "com.Scorpions.MusicAudio"
+      "app": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.1veXmVn9ADxly9eLQd3BSgHaE8%26pid%3DApi&f=1",
+      "url": "free_music.BlueFace_mp3"
     },
     {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fthefader-res.cloudinary.com%2Fprivate_images%2Fc_limit%2Cw_1024%2Fc_crop%2Ch_505%2Cw_970%2Cx_51%2Cy_212%2Cf_auto%2Cq_auto%3Aeco%2Fimage1_1_1_er7eoj%2Fimage1_1_1_er7eoj.jpg&f=1&nofb=1",
-      "url": "com.King_Von.MusicAudio"
+      "app": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.tbBsRuHs6r1lxMiYAg4GqgHaHa%26pid%3DApi&f=1",
+      "url": "free_music.Lil_Pump"
     },
     {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftownsquare.media%2Fsite%2F812%2Ffiles%2F2019%2F04%2Flil-durk.jpg%3Fw%3D1200&f=1&nofb=1",
-      "url": "com.Lil_Durk.MusicAudio"
+      "app": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zW9B336mdHwimhr0UfVkFgHaE7%26pid%3DApi&f=1",
+      "url": "free_music.Sergey_Lazarev"
     },
     {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FC3NizNOUEAYm7gO.jpg&f=1&nofb=1",
-      "url": "com.Kimberly_Loaiza.MusicAudio"
+      "app": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.hiphopdx.com%2F2018%2F03%2F180329-lil-durk-IG-800x600.jpg&f=1&nofb=1",
+      "url": "free_music.Lil_Durk"
     },
     {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FffUOzEI_6h8%2Fmaxresdefault.jpg&f=1&nofb=1",
-      "url": "com.Alexandre_Revva.MusicAudio"
-  
-     },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.er6RXh9hLbAjXLOFmcMedwAAAA%26pid%3DApi&f=1",
-      "url": "com.Everglow.MusicAudio"
+      "app": "https://www.joomlaforce.com/wp-content/uploads/2017/02/coming-soon-page-builder.png",
+      "url": "https://www.joomlaforce.com/wp-content/uploads/2017/02/coming-soon-page-builder.png"
     },
     {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l79eeejcpdSd-LyaYNt-B99q1lpovmZk-ccBJw%3Ds900-c-k-c0xffffffff-no-rj-mo&f=1&nofb=1",
-      "url": "com.katya_adushkina.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_l0vnAGGCK4%2Fmaxresdefault.jpg&f=1&nofb=1",
-      "url": "com.bpemr_ctekro.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fstudybreaks.com%2Fwp-content%2Fuploads%2F2018%2F12%2FBillie-Eilish-2018-portrait-govball.jpg&f=1&nofb=1",
-      "url": "com.Billie_Eilish.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.kdJj0RYX7pHahY3DnrclfwHaEc%26pid%3DApi&f=1",
-      "url": "com.MONATIK_mp3.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.businessinsider.com%2Fimage%2F5cdee487f06717720812babd-1190-625%2Flil-nas-x-released-a-music-video-for-his-hit-old-town-road-that-features-chris-rock-and-billy-ray-cyrus.jpg&f=1&nofb=1",
-      "url": "com.Music_Old_Town_Road.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwealthyleo.com%2Fwp-content%2Fuploads%2F2018%2F10%2FPolo-G-758x531.jpg&f=1&nofb=1",
-      "url": "com.Polo_G.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIhBAw4xl2eU%2Fhqdefault.jpg&f=1&nofb=1",
-      "url": "com.Amado_Batista.MusicAudio"
-  
-      },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FBojNWNr_1q0%2Fhqdefault.jpg&f=1&nofb=1",
-      "url": "com.Marilia_Mendonca.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ravejungle.com%2Fwp-content%2Fuploads%2F2018%2F06%2FXXXTentacion-dead-ravejungle.jpg&f=1&nofb=1",
-      "url": "com.XXXTentacion_usa.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Flastfm-img2.akamaized.net%2Fi%2Fu%2Far0%2F181043ad90f9cc03fed0d8f33f477ff7.jpg&f=1&nofb=1",
-      "url": "com.Capital_Bra.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.billboard.com%2Ffiles%2Fmedia%2Fmac-miller-2018-smile-u-billboard-1548.jpg&f=1&nofb=1",
-      "url": "com.Mac_Miller.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.nojXaBMooyAk18GAlHlAPgHaEK%26pid%3DApi&f=1",
-      "url": "com.MCAle_PerdoaMae.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Flastfm-img2.akamaized.net%2Fi%2Fu%2Far0%2Fb4489211ad767c919d59dbc6e38b0b2c.jpg&f=1&nofb=1",
-      "url": "com.Samra_Musik.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.0scv6ml2gW88YdMxtN-AfAHaD6%26pid%3DApi&f=1",
-      "url": "com.Tima_Belorusskih.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2F736x%2F1b%2F6e%2F48%2F1b6e489ae67f0397cbe9214547dc3655.jpg&f=1&nofb=1",
-      "url": "com.leo_rojas.MusicAudio"
-  
-     },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2016%2Fmedia%2F230434%2F_original%2F1456861608%2F1035x1131-f7d9f152-9305-42f5-a739-bdf2e14ac420-(1).jpg&f=1&nofb=1",
-      "url": "com.Don_Williams.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.thefamouspeople.com%2Fprofiles%2Fimages%2Fog-blueface-43627.jpg&f=1&nofb=1",
-      "url": "com.BlueFace_mp3.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.CJa7OfQIYeKwa1v_A78nUAHaFf%26pid%3DApi&f=1",
-      "url": "com.Lil_Pump_mp3.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimg.muz1.tv%2Fimg%2F2016-09-05%2Ffmt_85_24_1473258284_14.jpg&f=1&nofb=1",
-      "url": "com.Misha_Marvin.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FpGXEkAyPmIU%2Fmaxresdefault.jpg&f=1&nofb=1",
-      "url": "com.Klava_Kokamp3.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.J197o5_IATpvbsJ7Ky6JcAHaE6%26pid%3DApi&f=1",
-      "url": "com.Sergey_Lazarev.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFWnse-z3iLE%2Fhqdefault.jpg&f=1&nofb=1",
-      "url": "com.Artik_Asti.MusicAudio"
-    },
-    {
-	  "app": "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.CjM4oNKfSRHI9CF24dMjNgHaHa%26pid%3DApi&f=1",
-      "url": "com.HammAli_Navai.MusicAudio"
-  
+      "app": "https://www.joomlaforce.com/wp-content/uploads/2017/02/coming-soon-page-builder.png",
+      "url": "https://www.joomlaforce.com/wp-content/uploads/2017/02/coming-soon-page-builder.png"
     }
   ]
 }
