@@ -40,14 +40,19 @@
     },
     {
       "photo": "https://preview.redd.it/wa51ktj5t80z.jpg?auto=webp&s=574dd3b18565b20ae1f417baf7f1ec5d78d7675b"
- },
+    },
     {
       "photo": "https://wallperio.com/data/out/200/johnny-cash-wallpaper_606168633.jpg"
-   
+
 
     }
   ],
   "media": [
+    {
+      "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
+      "name":"Hurt",
+      "uel":"https://ia601404.us.archive.org/31/items/1_20191111_20191111_1736/1.mp3"
+    },
     {
       "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"God's Gonna Cut You Down",
@@ -147,7 +152,7 @@
       "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":" If You Could Read My Mind",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/20.mp3"
-	   },
+    },
     {
       "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Waylon Jennings",
@@ -157,9 +162,9 @@
       "imageurl":"https://www.billboard.com/files/styles/article_main_image/public/media/johnny-cash-1968-billboard-1548.jpg",
       "name":"Big Iron",
       "uel":"https://ia601406.us.archive.org/6/items/15_20190904/22.mp3"
- 
-  
-    
+
+
+
     }
   ]
 }
