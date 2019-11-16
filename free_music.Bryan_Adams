@@ -1,0 +1,358 @@
+
+{
+  "euro": [
+    {
+      "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+      "poloPRO": "ffffffffffff",
+      "nain1": "iiiiiiii",
+      "nain2": "iiiiiiii",
+      "nain3": "iiiiiiii",
+      "nain4": "iiiiiiii",
+      "bain1": "bbbbbbbb",
+      "bain2": "bbbbbbbb",
+      "stor": "https://play.google.com/store/apps/developer?id=agani_+music_mp3",
+      "imageurl":"https://wallpapercave.com/wp/wp2070611.jpg",
+      "FAban": "",
+      "FAint": "",
+      "isadsFG": ""
+    }
+  ],
+  "obPhoto": [
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070577.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070580.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070596.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070611.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070622.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070623.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070634.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070642.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070649.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070658.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070694.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070729.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070736.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070740.jpg"
+    },
+    {
+      "photo": "https://wallpapercave.com/wp/wp2070739.jpg"
+
+    }
+  ],
+  "media": [
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.arn.com.au%2Fmedia%2F6603831%2Fgettyimages-142725032.jpg",
+      "name":"Shine A Light",
+"uel":"https://ia601408.us.archive.org/22/items/2_20190705/1.MP3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.arn.com.au%2Fmedia%2F6603831%2Fgettyimages-142725032.jpg",
+      "name":"Jennifer Lopez - That's How Strong Our Love Is",
+"uel":"https://ia601408.us.archive.org/22/items/2_20190705/2.MP3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.arn.com.au%2Fmedia%2F6603831%2Fgettyimages-142725032.jpg",
+      "name":"Part Friday Night, Part Sunday Morning",
+"uel":"https://ia601408.us.archive.org/22/items/2_20190705/3.MP3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.arn.com.au%2Fmedia%2F6603831%2Fgettyimages-142725032.jpg",
+      "name":"Driving Under The Influence Of Love",
+"uel":"https://ia601408.us.archive.org/22/items/2_20190705/4.MP3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.arn.com.au%2Fmedia%2F6603831%2Fgettyimages-142725032.jpg",
+      "name":" All Or Nothing",
+"uel":"https://ia601408.us.archive.org/22/items/2_20190705/5.MP3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.arn.com.au%2Fmedia%2F6603831%2Fgettyimages-142725032.jpg",
+      "name":"No Time For Love",
+"uel":"https://ia601408.us.archive.org/22/items/2_20190705/6.MP3"
+ },
+    {
+"imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.arn.com.au%2Fmedia%2F6603831%2Fgettyimages-142725032.jpg",
+      "name":"Talk To Me",
+"uel":"https://ia601408.us.archive.org/22/items/2_20190705/7.MP3"
+ },
+    {
+
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"01 - Only The Strong",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/01%20-%20Only%20The%20Strong.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"02 - The Only One",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/02%20-%20The%20Only%20One.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"03 - Kids Wanna Rock",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/03%20-%20Kids%20Wanna%20Rock.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"04 - It's Only LOve",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/04%20-%20It%27s%20Only%20Love.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"05 - Cuts Like A Knife",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/05%20-%20Cuts%20Like%20A%20Knife.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"06 - Victim Of Nove",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/06%20-%20Victim%20Of%20Nove.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"07 - Straight From The Heart",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/07%20-%20Straight%20From%20The%20Heart.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"08 - Heaven",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/08%20-%20Heaven.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"09 - Heat Of The Night",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/09%20-%20Heat%20Of%20The%20Night.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"10 - Run To You",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/10%20-%20Run%20To%20You.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"11 - Somebody",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/11%20-%20Somebody.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"12 - Into The Fire",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/12%20-%20Into%20The%20Fire.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"13 - Summer Of ' 69",
+
+"uel":"https://archive.org/download/BryanAdams_201807/Bryan%20Adams/13%20-%20Summer%20Of%20%27%2069.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams Back To You",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Back_To_You.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams Cloud Number Nine",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Cloud_Number_Nine.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Everything I Do I Do It For U",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Everything_I_Do_I_Do_It_For_You.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams Flying",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Flying.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams Have You Ever Really Loved A Woman",
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Have_You_Ever_Really_Loved_A_Woman.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Heaven - Bryan Adams",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Heaven.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Here I Am - Bryan Adams",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Here_I_Am.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"How Do You Talk to an Angel - Bryan Adams",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_How_Do_You_Talk_to_an_Angel.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams I Finally Found Someone - Bryan Adams Duet",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_I_Finally_Found_Someone.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"I Need Somebody - Bryan Adams",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_I_Need_Somebody.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams I Still Miss You A Little Bit",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_I_Still_Miss_You_A_Little_Bit.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams I m Ready",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_I_m_Ready.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"I'll Be Right Here Waiting - Bryan Adams",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_I_will_be_right_here_waiting_for_you.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams In The Heat Of The Night",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_In_The_Heat_Of_The_Night.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams Lets Make A Night To Remember",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Lets_Make_A_Night_To_Remember.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams Merry Christmas",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Merry_Christmas.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams Never Let Go",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Never_Let_Go.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams Please Forgive Me",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Please_Forgive_Me.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Run To You - Bryan Adams",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Run_To_You.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Straight from the Heart - Bryan Adams",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Straight_from_the_Heart.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"summer of 69 - Bryan Adams",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_Summer_of_69.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams The Only Thing That Looks Good On Me Is You",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_The_Only_Thing_That_Looks_Good_On_Me_Is_You.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"This Time - Bryan Adams",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_This_Time.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"This Time - Bryan Adams",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_This_Time_2.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams When You re Gone",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_When_You_re_Gone.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Bryan Adams and Celine Dion Look Into My Eyes",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_and_Celine_Dion_Look_Into_My_Eyes.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"It s Only Love - Bryan Adams  Tina Turner",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_and_Tina_Turner_It_is_Only_Love.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"It s Only Love - Bryan Adams  Tina Turner",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Bryan_Adams_and_Tina_Turner_It_is_Only_Love_2.MP3"
+ },
+    {
+"imageurl": "https://files.list.co.uk/images/2017/10/11/bryan-adams-axs-LST190664-lg.jpg",
+"name":"Michael Buble Ft Bryan Adams After All",
+
+"uel":"https://archive.org/download/BryanAdamsEverythingIDoIDoItForYou_201901/Michael_Buble_Ft_Bryan_Adams_After_All.MP3"
+    }
+  ]
+}
+
