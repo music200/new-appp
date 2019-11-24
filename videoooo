@@ -1,0 +1,325 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ykdVSpMS6AZuEJLA9l9eiH1uols\"",
+ "pageInfo": {
+  "totalResults": 7,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Y2D-Lfds9lr8Me1pwQjjDz9U45Q\"",
+   "id": "UExDdVZZSEU3TzJBME1aNlVkUVNGM1ZKcldSaVpYVzlPcC41MzJCQjBCNDIyRkJDN0VD",
+   "snippet": {
+    "publishedAt": "2019-11-20T19:36:45.000Z",
+    "channelId": "UCGR1XmkoQedeJMT2ajRHvsw",
+    "title": "Kuruluş Osman 2. Bölüm Fragmanı",
+    "description": "O, kömür karası gözleriyle, gaza ve hürriyet ateşini tutuşturacaktı. \n\nAdı, Ertuğrul Gazi oğlu Osman’dı… \n\nKaranlığın içinde ona yol gösteren “aşk” oldu…\n\nKan ve gözyaşıyla sulanan topraklarda, gök ekini gibi biçilen; yedi göğü, yedi yeri, dağları, denizleri aşacak bir milletin rüyasını “aşkla” gördü.\n\nGücünü kılıcından değil, “aşktan” aldı… Zorbalığa adaletle; köleliğe hürriyetle direnen, tarihin gördüğü en büyük imparatorluğa adını “aşkla” verdi.\n\n72 milleti kıran bozuk düzene karşı başkaldırı, mazlumların sessiz çığlığına umut, Kuruluş’un adı oldu…\n\nKuruluş Osman… 400 çadırlık bir obadan, “ilahi aşkla” kurulan bir cihan imparatorluğuna yürüyüşün hikayesi.\n\nAbone Olmak için ; https://goo.gl/tf3jAu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0et77w6-l_w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0et77w6-l_w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0et77w6-l_w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/0et77w6-l_w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/0et77w6-l_w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kuruluş Osman",
+    "playlistId": "PLCuVYHE7O2A0MZ6UdQSF3VJrWRiZXW9Op",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0et77w6-l_w"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bljkEvzOl-xLtZ4YryqoPXqZ3Is\"",
+   "id": "UExDdVZZSEU3TzJBME1aNlVkUVNGM1ZKcldSaVpYVzlPcC4xMkVGQjNCMUM1N0RFNEUx",
+   "snippet": {
+    "publishedAt": "2019-11-18T10:49:10.000Z",
+    "channelId": "UCGR1XmkoQedeJMT2ajRHvsw",
+    "title": "Kuruluş Osman 1. Bölüm 3. Fragmanı",
+    "description": "O, kömür karası gözleriyle, gaza ve hürriyet ateşini tutuşturacaktı. \n\nAdı, Ertuğrul Gazi oğlu Osman’dı… \n\nKaranlığın içinde ona yol gösteren “aşk” oldu…\n\nKan ve gözyaşıyla sulanan topraklarda, gök ekini gibi biçilen; yedi göğü, yedi yeri, dağları, denizleri aşacak bir milletin rüyasını “aşkla” gördü.\n\nGücünü kılıcından değil, “aşktan” aldı… Zorbalığa adaletle; köleliğe hürriyetle direnen, tarihin gördüğü en büyük imparatorluğa adını “aşkla” verdi.\n\n72 milleti kıran bozuk düzene karşı başkaldırı, mazlumların sessiz çığlığına umut, Kuruluş’un adı oldu…\n\nKuruluş Osman… 400 çadırlık bir obadan, “ilahi aşkla” kurulan bir cihan imparatorluğuna yürüyüşün hikayesi.\n\nAbone Olmak için ; https://goo.gl/tf3jAu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xrWmmb6JwjA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xrWmmb6JwjA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xrWmmb6JwjA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xrWmmb6JwjA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xrWmmb6JwjA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kuruluş Osman",
+    "playlistId": "PLCuVYHE7O2A0MZ6UdQSF3VJrWRiZXW9Op",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xrWmmb6JwjA"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mOCBUHHNYf-8KSh_r8OnOwd01sI\"",
+   "id": "UExDdVZZSEU3TzJBME1aNlVkUVNGM1ZKcldSaVpYVzlPcC4wOTA3OTZBNzVEMTUzOTMy",
+   "snippet": {
+    "publishedAt": "2019-11-15T17:50:16.000Z",
+    "channelId": "UCGR1XmkoQedeJMT2ajRHvsw",
+    "title": "Kuruluş Osman 1. Bölüm 2. Fragmanı",
+    "description": "O, kömür karası gözleriyle, gaza ve hürriyet ateşini tutuşturacaktı. \n\nAdı, Ertuğrul Gazi oğlu Osman’dı… \n\nKaranlığın içinde ona yol gösteren “aşk” oldu…\n\nKan ve gözyaşıyla sulanan topraklarda, gök ekini gibi biçilen; yedi göğü, yedi yeri, dağları, denizleri aşacak bir milletin rüyasını “aşkla” gördü.\n\nGücünü kılıcından değil, “aşktan” aldı… Zorbalığa adaletle; köleliğe hürriyetle direnen, tarihin gördüğü en büyük imparatorluğa adını “aşkla” verdi.\n\n72 milleti kıran bozuk düzene karşı başkaldırı, mazlumların sessiz çığlığına umut, Kuruluş’un adı oldu…\n\nKuruluş Osman… 400 çadırlık bir obadan, “ilahi aşkla” kurulan bir cihan imparatorluğuna yürüyüşün hikayesi.\n\nAbone Olmak için ; https://goo.gl/tf3jAu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZeXEwBNhF78/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZeXEwBNhF78/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZeXEwBNhF78/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ZeXEwBNhF78/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ZeXEwBNhF78/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kuruluş Osman",
+    "playlistId": "PLCuVYHE7O2A0MZ6UdQSF3VJrWRiZXW9Op",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZeXEwBNhF78"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/z8mmJbX5zB335hfq-Ka2HqGfwt8\"",
+   "id": "UExDdVZZSEU3TzJBME1aNlVkUVNGM1ZKcldSaVpYVzlPcC41MjE1MkI0OTQ2QzJGNzNG",
+   "snippet": {
+    "publishedAt": "2019-11-09T17:44:53.000Z",
+    "channelId": "UCGR1XmkoQedeJMT2ajRHvsw",
+    "title": "Kuruluş Osman 1. Bölüm Fragmanı",
+    "description": "O, kömür karası gözleriyle, gaza ve hürriyet ateşini tutuşturacaktı. \n\nAdı, Ertuğrul Gazi oğlu Osman’dı… \n\nKaranlığın içinde ona yol gösteren “aşk” oldu…\n\nKan ve gözyaşıyla sulanan topraklarda, gök ekini gibi biçilen; yedi göğü, yedi yeri, dağları, denizleri aşacak bir milletin rüyasını “aşkla” gördü.\n\nGücünü kılıcından değil, “aşktan” aldı… Zorbalığa adaletle; köleliğe hürriyetle direnen, tarihin gördüğü en büyük imparatorluğa adını “aşkla” verdi.\n\n72 milleti kıran bozuk düzene karşı başkaldırı, mazlumların sessiz çığlığına umut, Kuruluş’un adı oldu…\n\nKuruluş Osman… 400 çadırlık bir obadan, “ilahi aşkla” kurulan bir cihan imparatorluğuna yürüyüşün hikayesi.\n\nAbone Olmak için ; https://goo.gl/tf3jAu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GLOucCTJpgw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GLOucCTJpgw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GLOucCTJpgw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/GLOucCTJpgw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/GLOucCTJpgw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kuruluş Osman",
+    "playlistId": "PLCuVYHE7O2A0MZ6UdQSF3VJrWRiZXW9Op",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "GLOucCTJpgw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/B8P_vzEbb7b8fF84_DNHjn3Q_2U\"",
+   "id": "UExDdVZZSEU3TzJBME1aNlVkUVNGM1ZKcldSaVpYVzlPcC4wMTcyMDhGQUE4NTIzM0Y5",
+   "snippet": {
+    "publishedAt": "2019-10-31T18:47:03.000Z",
+    "channelId": "UCGR1XmkoQedeJMT2ajRHvsw",
+    "title": "Kuruluş Osman 2. Tanıtım",
+    "description": "O, kömür karası gözleriyle, gaza ve hürriyet ateşini tutuşturacaktı. \n\nAdı, Ertuğrul Gazi oğlu Osman’dı… \n\nKaranlığın içinde ona yol gösteren “aşk” oldu…\n\nKan ve gözyaşıyla sulanan topraklarda, gök ekini gibi biçilen; yedi göğü, yedi yeri, dağları, denizleri aşacak bir milletin rüyasını “aşkla” gördü.\n\nGücünü kılıcından değil, “aşktan” aldı… Zorbalığa adaletle; köleliğe hürriyetle direnen, tarihin gördüğü en büyük imparatorluğa adını “aşkla” verdi.\n\n72 milleti kıran bozuk düzene karşı başkaldırı, mazlumların sessiz çığlığına umut, Kuruluş’un adı oldu…\n\nKuruluş Osman… 400 çadırlık bir obadan, “ilahi aşkla” kurulan bir cihan imparatorluğuna yürüyüşün hikayesi.\n\nAbone Olmak için ; https://goo.gl/tf3jAu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ECt3cnIRiOw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ECt3cnIRiOw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ECt3cnIRiOw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ECt3cnIRiOw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ECt3cnIRiOw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kuruluş Osman",
+    "playlistId": "PLCuVYHE7O2A0MZ6UdQSF3VJrWRiZXW9Op",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ECt3cnIRiOw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/28NKlxEopzCOnlz8Gr33vueB3nw\"",
+   "id": "UExDdVZZSEU3TzJBME1aNlVkUVNGM1ZKcldSaVpYVzlPcC4yODlGNEE0NkRGMEEzMEQy",
+   "snippet": {
+    "publishedAt": "2019-10-23T18:30:11.000Z",
+    "channelId": "UCGR1XmkoQedeJMT2ajRHvsw",
+    "title": "Kuruluş Osman 2. Tanıtım",
+    "description": "O, kömür karası gözleriyle, gaza ve hürriyet ateşini tutuşturacaktı. \n\nAdı, Ertuğrul Gazi oğlu Osman’dı… \n\nKaranlığın içinde ona yol gösteren “aşk” oldu…\n\nKan ve gözyaşıyla sulanan topraklarda, gök ekini gibi biçilen; yedi göğü, yedi yeri, dağları, denizleri aşacak bir milletin rüyasını “aşkla” gördü.\n\nGücünü kılıcından değil, “aşktan” aldı… Zorbalığa adaletle; köleliğe hürriyetle direnen, tarihin gördüğü en büyük imparatorluğa adını “aşkla” verdi.\n\n72 milleti kıran bozuk düzene karşı başkaldırı, mazlumların sessiz çığlığına umut, Kuruluş’un adı oldu…\n\nKuruluş Osman… 400 çadırlık bir obadan, “ilahi aşkla” kurulan bir cihan imparatorluğuna yürüyüşün hikayesi.\n\nAbone Olmak için ; https://goo.gl/tf3jAu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ARVmOWgUY-8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ARVmOWgUY-8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ARVmOWgUY-8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ARVmOWgUY-8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ARVmOWgUY-8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kuruluş Osman",
+    "playlistId": "PLCuVYHE7O2A0MZ6UdQSF3VJrWRiZXW9Op",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ARVmOWgUY-8"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_STcbM2JdESxQJlUTskFI1ZPUUI\"",
+   "id": "UExDdVZZSEU3TzJBME1aNlVkUVNGM1ZKcldSaVpYVzlPcC41NkI0NEY2RDEwNTU3Q0M2",
+   "snippet": {
+    "publishedAt": "2019-10-09T18:30:28.000Z",
+    "channelId": "UCGR1XmkoQedeJMT2ajRHvsw",
+    "title": "Kuruluş Osman İlk Tanıtım",
+    "description": "O, kömür karası gözleriyle, gaza ve hürriyet ateşini tutuşturacaktı. \n\nAdı, Ertuğrul Gazi oğlu Osman’dı… \n\nKaranlığın içinde ona yol gösteren “aşk” oldu…\n\nKan ve gözyaşıyla sulanan topraklarda, gök ekini gibi biçilen; yedi göğü, yedi yeri, dağları, denizleri aşacak bir milletin rüyasını “aşkla” gördü.\n\nGücünü kılıcından değil, “aşktan” aldı… Zorbalığa adaletle; köleliğe hürriyetle direnen, tarihin gördüğü en büyük imparatorluğa adını “aşkla” verdi.\n\n72 milleti kıran bozuk düzene karşı başkaldırı, mazlumların sessiz çığlığına umut, Kuruluş’un adı oldu…\n\nKuruluş Osman… 400 çadırlık bir obadan, “ilahi aşkla” kurulan bir cihan imparatorluğuna yürüyüşün hikayesi.\n\nAbone Olmak için ; https://goo.gl/tf3jAu",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vWd5RzRzAtE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vWd5RzRzAtE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vWd5RzRzAtE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/vWd5RzRzAtE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/vWd5RzRzAtE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Kuruluş Osman",
+    "playlistId": "PLCuVYHE7O2A0MZ6UdQSF3VJrWRiZXW9Op",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vWd5RzRzAtE"
+    }
+   }
+  }
+ ]
+}
