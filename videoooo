@@ -1,6 +1,6 @@
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3tHjibceUenJyJ88wLqB7eHBy_4\"",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/p7hb-6z2tMqUpFxP1wAGxr5hPmc\"",
  "pageInfo": {
   "totalResults": 9,
   "resultsPerPage": 50
@@ -8,82 +8,380 @@
  "items": [
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZHdoE2_n2NZsvC8LtNvN__5MD08\"",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8z3IazrJAO0NmqTmroRvUEILH5w\"",
    "id": "UEwwbHJoc3h1ZERmQlpNbmJUaTZ5ME5zQ1BnbEZjeVZSby5GNjNDRDREMDQxOThCMDQ2",
-   "contentDetails": {
-    "videoId": "1H7elWBQPeo",
-    "videoPublishedAt": "2019-07-24T12:57:45.000Z"
+   "snippet": {
+    "publishedAt": "2019-07-24T12:26:55.000Z",
+    "channelId": "UCWXVCbM1-eu3cXYGiR6dpkQ",
+    "title": "علي صابر - الله يسهلك (فيديو كليب حصري) | 2019 | Ali Saber - Alahh Esahilak (Exclusive Video Clip)",
+    "description": "استمع على جميع المنصات: https://AliSaber.lnk.to/AlahhEsahilakID\nاشترك في قناة النجومية من خلال الرابط التالي: https://bit.ly/2XB2nfC\n\nعلي صابر - الله يسهلك (حصرياً) | 2019\nAli Saber - Alahh Esahilak (Exclusive) | 2019\n\nكلمات: رامي العبودي\nألحان وغناء: علي صابر\nتوزيع ومكس وماستر: عثمان عبود\nتنفيذ الفيديو: عمر جواد\n\n\nكلمات الأغنية:\n\nمو انت ردت اتروح .......وتتبره من حبك\nبكيفك تره الموضوع ...ياعمري راجعلك\nثاري اختلاف اوجوه.....هم تشبه القبلك\nلو ناوي ع الفرگه .......الله يسهلك\nعادي ....\nخل اشتاگ الك ...فتره... وحبك ينسي\nيمكن...\nاتعب كم شهررر....لكن... ما راااح انتهي\nمشتاك..ماگلك\nولتفكر ارجعلك\nحبيت اوضحلك\nگلبي تعب منك\n\nتعبت اغيرررر بيك .وانت متتغيرررررر\nوأكبر بأنساااان ......ايموت اذا يكبررر\nلتكمل المشواااااااار ..ابليااك راح اگدر\nانهي الكلام وروح يلا  لاتتاااااااااخر\nماااااشي.....\nابعد واختفي .تجرحني متصوررر بعد\nلك لوو\nامووووت امن العشگ..عليك ماادور ابد\nوالفرررگه متهمني\nوره الي ميحــبني\nوعلى اللي تعبني\nالله يعوووووضني\n\n\nتوزيع ديجيتال: شركة قنوات\n-----------------------\nOfficial Instagram: https://bit.ly/2Hbo8xA\n\n#علي_صابر #عثمان_عبود #النجومية",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1H7elWBQPeo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1H7elWBQPeo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1H7elWBQPeo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1H7elWBQPeo/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1H7elWBQPeo/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "AlNojomia l النجومية",
+    "playlistId": "PL0lrhsxudDfBZMnbTi6y0NsCPglFcyVRo",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1H7elWBQPeo"
+    }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jzn7Jh1NTWytBCsDMcGN1eAo6Fc\"",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PhMiVQXW2R-lyQ233QvIjsUHGwk\"",
    "id": "UEwwbHJoc3h1ZERmQlpNbmJUaTZ5ME5zQ1BnbEZjeVZSby45NDk1REZENzhEMzU5MDQz",
-   "contentDetails": {
-    "videoId": "JzFvL947TSA",
-    "videoPublishedAt": "2019-07-16T16:08:54.000Z"
+   "snippet": {
+    "publishedAt": "2019-07-16T16:08:55.000Z",
+    "channelId": "UCWXVCbM1-eu3cXYGiR6dpkQ",
+    "title": "حنان رضا - يطول بعمرك (حصرياً) | 2019",
+    "description": "استمع على جميع المنصات: https://HananRedha.lnk.to/YtawelBomrakID\nاشترك في قناة النجومية من خلال الرابط التالي: https://bit.ly/2XB2nfC\n\nحنان رضا - يطول بعمرك (حصرياً) | 2019\nHanan Redha - Ytawel Bomrak (Exclusive) | 2019\n\nكلمات: سيف الفارس \nألحان: علي صابر \nتوزيع ومكس وماستر: عثمان عبود \nإنتاج قناة النجوميه\n\n\nكلمات الأغنية:\n\nالله يطول بعمرك\nواشوفك منو اليتندم عله الثاني \nبااجر غيبتي ادمرك\nوشوف شلون كلش صعب نسياني \n\nلتستعجل وراح تشوف \nمنو الي يبجي بلفرگه\nمن تذكرلي خوفي عليك\nودمعك ينزل بحركه\nولا ابجي ولا اتحسر\nولا عيني بعد تسهر \nفاهم غلط صدگني ..\nاني انخسر ما اخسر ...\n.................................\n\nجنت اتمنه ماعوفك \nبس انت اجبرتني بكثرة اهمالك \nعليه انت شفت روحك\nوعفتني وصرت اصلا ما اجي ابالك \nردتك سند ضهري اتصير\nبس ماصارت القسمه \nاني الماعرفت اختار \nمدري الدنيه للغشمه \nاضاااهر طيبي ماينفع\nبعد ماكو جفن  يدمع\nدمعه وطحت من العين\nوعمره الطاح ماايرجع \n...............................\n\nالله يعوض اسنيني \nالضاعت ياخساره بحبك او ضلمك \nبس لتضن تبجيني \nمتهمني بعد مثل اني مااهمك \nحيل اختلف طبعك ذاك\nضنيتك تضل   غالي \nجان ابالي اضل وياك \nبس مااصار البالي \nلهنانه او وصل حدها \nبعد حنيتي ماردها \nاضمك ردت للايام \nتالي طلعت مو گدها\n\n\nتوزيع ديجيتال: شركة قنوات\n-----------------------\nOfficial Instagram: https://bit.ly/2Hbo8xA\n\n#علي_صابر #عثمان_عبود #النجومية",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JzFvL947TSA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JzFvL947TSA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JzFvL947TSA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/JzFvL947TSA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/JzFvL947TSA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "AlNojomia l النجومية",
+    "playlistId": "PL0lrhsxudDfBZMnbTi6y0NsCPglFcyVRo",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JzFvL947TSA"
+    }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/I3F1sPmnQlzxFUE901qGrfgVvTc\"",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gVD7aUooltiuKSYdLzX5tokSX-E\"",
    "id": "UEwwbHJoc3h1ZERmQlpNbmJUaTZ5ME5zQ1BnbEZjeVZSby5DQUNERDQ2NkIzRUQxNTY1",
-   "contentDetails": {
-    "videoId": "D02otb10W0E",
-    "videoPublishedAt": "2019-07-02T20:15:00.000Z"
+   "snippet": {
+    "publishedAt": "2019-07-03T06:11:26.000Z",
+    "channelId": "UCWXVCbM1-eu3cXYGiR6dpkQ",
+    "title": "باسل العزيز - ثقة بنفسي (حصرياً) | 2019",
+    "description": "اشترك في قناة النجومية من خلال الرابط التالي: https://bit.ly/2XB2nfC\n\nباسل العزيز - ثقة بنفسي (حصرياً) | 2019\nBasel Alazeez - Theqa Bnafsy (Exclusive) | 2019\n\nألحان: علي صابر \nالتوزيع الموسيقي: ميثم علاء الدين\nكلمات: قصي عيسى \nمكس وماسترنغ: طيف عادل\n\n\nكلمات الأغنية:\nعندي ثقه بنفسي ماتقدر تهزها واطباعي \nبس الي من اهل الله شايفها انا بشر عادي\n بي ميزه وفهمها  روحي ع القمه محد ينزلها\n\nمو انته الي تجي تشكنني بافعالي\n سوي شماتسوي وابقه شي عالي\n ماامشي بالي تريده والحجي ماراح اعيد \nعلاقتي بيك اعترفلك  والقصه ماجانت سعيده\n\nخليك متذكررررررر\nمنو الغلط بينه ..............!؟\nولا تحچي بالعشررره \nامن العشره خلينه ..............!؟\nيل كرهت گلبي \nبالعشگ وسنينه ..............!؟\nلك والله ما ادري \nانت من يا طينه ...............!؟\n\nوبعدك گاااااعد اتسووووفلي باحساسك \nامنيتي افتهم انت شكووووو ابرااااااسك\n\nوماامشي بالي تريده والحجي ماراح اعيد\nعلاقتي بيك  اعترفلك  والقصه ماجانت سعيده\n\n\nتوزيع ديجيتال: شركة قنوات\n-----------------------\nOfficial Instagram: https://bit.ly/2Hbo8xA\n\n#علي_صابر #عثمان_عبود #النجومية",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/D02otb10W0E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/D02otb10W0E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/D02otb10W0E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/D02otb10W0E/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/D02otb10W0E/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "AlNojomia l النجومية",
+    "playlistId": "PL0lrhsxudDfBZMnbTi6y0NsCPglFcyVRo",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "D02otb10W0E"
+    }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kvXhn1rU9YO3wlncNALhQuf_Tms\"",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2Rl4SbaszjsgpjzHqGMXfk5O0mE\"",
    "id": "UEwwbHJoc3h1ZERmQlpNbmJUaTZ5ME5zQ1BnbEZjeVZSby41MzJCQjBCNDIyRkJDN0VD",
-   "contentDetails": {
-    "videoId": "hy3o5DlX6zs",
-    "videoPublishedAt": "2019-06-26T19:04:02.000Z"
+   "snippet": {
+    "publishedAt": "2019-06-26T19:04:03.000Z",
+    "channelId": "UCWXVCbM1-eu3cXYGiR6dpkQ",
+    "title": "نصر البحار - أتخيلك جاي (حصرياً) | 2019",
+    "description": "استمع على جميع المنصات: https://NaserAlbhar.lnk.to/AtkhailakJayID\n\nاشترك في قناة النجومية من خلال الرابط التالي: https://bit.ly/2XB2nfC\n\nنصر البحار - أتخيلك جاي (حصرياً) | 2019\nNaser Al Bahar – Atkhayelak Gai (Exclusive) | 2019\n\nكلمات: قصي عيسى \nألحان: علي صابر\nتوزيع ومكس وماسترينغ: عثمان عبود \nجيتار: farshid \nانتاج: قناة النجومية\n\n\nكلمات الأغنية:\nبعدني اتخيلك جاي\nتنور ضلمه اسنيني\nوحشه الدنيه بغيابك\nيل وجهك ضوه عيني\n\nواباوع ع الوجوه وچني ادور \nبيك اهواي افكر...\nابدونك حالي يقهررر....ياروحي\n\nوعلى حالي بعدني ما اسيطر....\nصعبه احجي واعبر\nمثل ما صعبه اصبر...\nيروحي...\n\nوليش اكذب لو ابالغ \nمحد يعوضني حبك \nبليااااك الكون فاااارغ \nيلي يسوه الدنيه گلبك\n.........\n\nادوررررر ابسط اشياااااااء..\nجااااانت بيك تجمعنــــــي.\nواحظرلك حچي اهواااااااي\nخااااااف ابيووووم تسمعني\n\nكثرررررر حبك وقلت بس ضحكتي..\nمخلص بيك وكتي .....\nبس اسمك بشفتي....\nيروحي .....\n\nياااااا تعويدي يلي صعبه ابدلك ..........\nوتجرحني واتحملك .....\nاموت وما اهملك ....\nيروحي ........\n\nبيه شووووگ يكفي دنيه .....\nوروحي زاد الهم عليها\nوحظنه .....من گلبي واديه \nكلش اتمنااااك بيهااااااا..\n\n\nتوزيع ديجيتال: شركة قنوات\n-----------------------\nOfficial Instagram: https://bit.ly/2Hbo8xA\n\n#علي_صابر #عثمان_عبود #النجومية",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hy3o5DlX6zs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hy3o5DlX6zs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hy3o5DlX6zs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hy3o5DlX6zs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/hy3o5DlX6zs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "AlNojomia l النجومية",
+    "playlistId": "PL0lrhsxudDfBZMnbTi6y0NsCPglFcyVRo",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hy3o5DlX6zs"
+    }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4QDUxVw-lQOhA4j0bdosto9ESZ8\"",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ml4tde0u7QsT2EALUeWnNINg--M\"",
    "id": "UEwwbHJoc3h1ZERmQlpNbmJUaTZ5ME5zQ1BnbEZjeVZSby4xMkVGQjNCMUM1N0RFNEUx",
-   "contentDetails": {
-    "videoId": "aq1gaT1_avY",
-    "videoPublishedAt": "2019-06-10T06:56:28.000Z"
+   "snippet": {
+    "publishedAt": "2019-06-10T06:56:31.000Z",
+    "channelId": "UCWXVCbM1-eu3cXYGiR6dpkQ",
+    "title": "جعفر الغزال - غرته الدنيا (حصرياً) | 2019",
+    "description": "استمع على جميع المنصات: https://JafarAlGhazal.lnk.to/GhartahAlDeniaID\n\nاشترك في قناة النجومية من خلال الرابط التالي: https://bit.ly/2XB2nfC\n\nجعفر الغزال - غرته الدنيا (حصرياً) | 2019\nJaafar Al Ghazal - Ghartah Al Denia (Exclusive) | 2019\n\nكلمات: رامي العبودي \nألحان: علي صابر \nتوزيع ومكس وماستر: عثمان عبود \nانتاج قناة النجومية\n\n\nكلمات الأغنية:\n\nموجنت كلش حاابـه\nصايرله حبه وصااحبـه\nغرته الدنيا الخاايبـه\nوماشالته الگاع\nحسباله راح اتدووملـه\nمايعرف  اشمظموملـه\nماقنع بالمقسوملـه\nتالي انتهه وضااع\n\nحاولت اقنعه وماقنـع\nسوه البراسه وماسمع\nتاليهه متندم رجـع\nماطار طيرا وارتفع .. الا كما طار وقع\nكتله الحياه اخذ وعطه\nشو باعنـي وبيـه نطـه\nهذا الطمع قل ماجمـع\nماطار طيرا وارتفع .. الا كما طار وقع\n\nكلوله لايشتااقلـي\nيحلم ارجعه اوياايـه\nجروحه بعدهه ابداخلـي\nشنساله هنـه اهواايـه\n\nأمنته روحي وخانهـه\nباع الوفه وما صانـهه\nهالعشره من عنوانهـه\nمتبشر ابخيـر\nكافي مشاكل زايـده\nخلي يسوي الرايـده\nما من ورا كل فايـده\nومو مال تقدير\nدللته حبيته عمر\nتاليها شبعني قهر \nكل التعب بي مانفـع\nماطار طيراً وارتفع..الا كما طار وقع\nقابل شسويلـه بعـد\nويايه راحه ماكعـد\nكلش ميستاهل طلع\nماطار طيراً وارتفع ..الا كما طار وقع\nكلوله لايشتااقلـي\nيحلم ارجعه اوياايـه\nجروحه بعدهه ابداخلـي\nشنساله هنـه اهواايـه\n\n\nتوزيع ديجيتال: شركة قنوات\n-----------------------\nOfficial Instagram: https://bit.ly/2Hbo8xA\n\n#علي_صابر #عثمان_عبود #النجومية",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aq1gaT1_avY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aq1gaT1_avY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aq1gaT1_avY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/aq1gaT1_avY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/aq1gaT1_avY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "AlNojomia l النجومية",
+    "playlistId": "PL0lrhsxudDfBZMnbTi6y0NsCPglFcyVRo",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aq1gaT1_avY"
+    }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0azO7duJwmpb_cQlV4rfh060we0\"",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/UHUdAumCj0SRHhEaMQBdQsm389A\"",
    "id": "UEwwbHJoc3h1ZERmQlpNbmJUaTZ5ME5zQ1BnbEZjeVZSby4wOTA3OTZBNzVEMTUzOTMy",
-   "contentDetails": {
-    "videoId": "_jUkn2hRVyg",
-    "videoPublishedAt": "2019-06-03T18:10:18.000Z"
+   "snippet": {
+    "publishedAt": "2019-06-03T18:10:20.000Z",
+    "channelId": "UCWXVCbM1-eu3cXYGiR6dpkQ",
+    "title": "أحمد المصلاوي – أصوم أصوم (حصرياً) | 2019 | Ahmed Al Maslawi – Asoum Asoum (Exclusive)",
+    "description": "استمع على جميع المنصات: https://AhmedAlMaslawi.lnk.to/AsoumAsoumID\n\nاشترك في قناة النجومية من خلال الرابط التالي:\nhttps://bit.ly/2XB2nfC\n\nأحمد المصلاوي – أصوم أصوم (حصرياً) | 2019\nAhmed Al Maslawi – Asoum Asoum (Exclusive) | 2019\n\nكلمات: قصي عيسى\nألحان: علي صابر\nتوزيع موسيقي ومكس: محب الراوي\nماسترنغ: طوني حداد\n\n\nكلمات الأغنية:\nخوش ولد من أهل البلد\nعمي خوش ولد من أهل البلد\nما أنطي قلبي لأي أحد\nهالوقعة أوقعها لعد\nأصوم أصوم وأفطر على خاين\n\nأمنيتي أحب بس وين أكو\nحُب الصدق راحوا هالوا\nمنو بعد يسوه منو\nأصوم أصوم وأفطر على خاين\n \nوقع قلبي بمصيبة طلع خاين حبيبه\nصدق قسمه غريبة\nأصوم أصوم وأفطر على خاين\n \nصدق چذب شخلاني أحب\nوأنا العليّ ماينلعب\nجريمه عالحب تنحسب\nأصوم أصوم وأفطر على خاين\n\nشقد تكتكت ويه الوقت\nعايش حلوو وراقي چنت\nليوره ثاريني رجعت\nأصوم أصوم وأفطر على خاين\n \nوقع قلبي بمصيبة طلع خاين حبيبه\nصدق قسمه غريبة\nأصوم أصوم وأفطر على خاين\n\nحظي الردي جابه الي\nمله القلب بالهم ملي\nفشلان من ناسي وهلي\nأصوم أصوم وأفطر على خاين\n\nهو البخت ورطني بي\nمافكرت راح ابتلي\nمو چنت خالي ومختلي\nأصوم أصوم وأفطر على خاين\n\nوقع قلبي بمصيبة طلع خاين حبيبه\nصدق قسمه غريبة\nأصوم أصوم وأفطر على خاين\n\n\nتوزيع ديجيتال: شركة قنوات\n-----------------------\nOfficial Instagram: https://bit.ly/2Hbo8xA\n\n#علي_صابر #عثمان_عبود #النجومية",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_jUkn2hRVyg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_jUkn2hRVyg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_jUkn2hRVyg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_jUkn2hRVyg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_jUkn2hRVyg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "AlNojomia l النجومية",
+    "playlistId": "PL0lrhsxudDfBZMnbTi6y0NsCPglFcyVRo",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_jUkn2hRVyg"
+    }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/V2MN5-r7Z1wH7yCRufglY_GT5BQ\"",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2IEW9D_g4Xso-l7eGqu3WVXSwPY\"",
    "id": "UEwwbHJoc3h1ZERmQlpNbmJUaTZ5ME5zQ1BnbEZjeVZSby41MjE1MkI0OTQ2QzJGNzNG",
-   "contentDetails": {
-    "videoId": "L3hHSLn_96k",
-    "videoPublishedAt": "2019-03-14T21:16:28.000Z"
+   "snippet": {
+    "publishedAt": "2019-03-14T21:17:49.000Z",
+    "channelId": "UCWXVCbM1-eu3cXYGiR6dpkQ",
+    "title": "محمود التركي - ضمني ضمني (حصرياً) | 2019 | Mahmoud Alturkey - Dommeny",
+    "description": "استمع على جميع المنصات: https://MahmoudAlTurki.lnk.to/DommenyDommenyID\n\nاشترك في قناة النجومية من خلال الرابط التالي:\nhttps://bit.ly/2XB2nfC\n\nمحمود التركي - ضمني ضمني (حصريا) | 2019\nMahmoud Alturkey - Dommeny Dommeny (Exclusive) | 2019\n\nكلمات : محمد الجبوري\nألحان : علي صابر\n\n-----------------------\nOfficial Instagram: https://bit.ly/2Hbo8xA\n\n#علي_صابر #عثمان_عبود #قناة_النجومية",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/L3hHSLn_96k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/L3hHSLn_96k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/L3hHSLn_96k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/L3hHSLn_96k/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/L3hHSLn_96k/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "AlNojomia l النجومية",
+    "playlistId": "PL0lrhsxudDfBZMnbTi6y0NsCPglFcyVRo",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "L3hHSLn_96k"
+    }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/91kRCZDowIdLG_BY-qmmylcyZ-0\"",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/rSiRZ5dXfSYkBoAf1_6TiEIEM1c\"",
    "id": "UEwwbHJoc3h1ZERmQlpNbmJUaTZ5ME5zQ1BnbEZjeVZSby41NkI0NEY2RDEwNTU3Q0M2",
-   "contentDetails": {
-    "videoId": "_aclsl7t2xA",
-    "videoPublishedAt": "2019-03-07T12:30:09.000Z"
+   "snippet": {
+    "publishedAt": "2019-03-07T12:31:32.000Z",
+    "channelId": "UCWXVCbM1-eu3cXYGiR6dpkQ",
+    "title": "محمد عبد الجبار - ما مجبور (حصرياً) |2019| Mohammad Abd Aljabar -  Ma Majbor",
+    "description": "استمع على جميع المنصات: https://MohamedAbdulJabbar.lnk.to/MamjborID\n\nاشترك في قناة النجومية من خلال الرابط التالي:\nhttps://bit.ly/2XB2nfC\n\n\nمحمد عبد الجبار - ما مجبور (حصرياً) | 2019\nMohamed Abdel Jabbar - Ma Majboor (Exclusive) | 2019\n\n#علي_صابر #عثمان_عبود #قناة_النجومية\nكلمات: جبار المياحي\nالحان : علي صابر\nتوزيع ومكس وماستر : عثمان عبود\nايقاعات : صفاء الغريب\nانتاج : قناة النجومية\n\nتوزيع ديجيتال: شركة قنوات\n\n\nكلمات الأغنية:\n\nما مجبور احب انسان\nهو بعمره ما حبني\nوما مجبور اظل اشتاگ\nكلما لحظه فارگني\nليش انه افكر بي\nوهو بيه ما فكر\nكلما حاولت انساه\nاعرف بروحي ما اگدر\n\nوادورله عذر ظليت\nواگل الروحي يتندم\nاليسحگ عالورد معذور\nاذا ما يدري بيه ينشم\nما مجبور احب انسان\nاصلآ هو ما مهتم\nمومعقوله اخلص اسنين\nعمري بحبه بس احلم\n\nليش ابقه اظل ما اشوف\nغيره واحد بعيني\nوهو حتى (خارج قوس)\nابگلبه ما  مخليني\nبعد ما اريد اظل مشغول\nبواحد ما اجي اباله\nبس گلبي اتوبه اشلون\nوهو يريد گتاله\n\nردت غيره احب وارتاح\nلكن گلبي شيقنعه\nيحب المايحبني وضال\nمثل القانع بوضعه\nاحس بعيني لذه اصير\nاذا بچاني اي دمعه\nالساكن بالگلب والروح\nمحد يگدر يطلعه\n\n-----------------------\nOfficial Instagram: https://bit.ly/2Hbo8xA",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_aclsl7t2xA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_aclsl7t2xA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_aclsl7t2xA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_aclsl7t2xA/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_aclsl7t2xA/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "AlNojomia l النجومية",
+    "playlistId": "PL0lrhsxudDfBZMnbTi6y0NsCPglFcyVRo",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_aclsl7t2xA"
+    }
    }
   },
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/10VIzysMYmcu9c8cZlEm32ClMto\"",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/AITlYYz4h87RpyHJJsh7ZlaMfEg\"",
    "id": "UEwwbHJoc3h1ZERmQlpNbmJUaTZ5ME5zQ1BnbEZjeVZSby40NzZCMERDMjVEN0RFRThB",
-   "contentDetails": {
-    "videoId": "vfcLb9AcsM8"
+   "snippet": {
+    "publishedAt": "2019-11-04T16:56:56.000Z",
+    "channelId": "UCWXVCbM1-eu3cXYGiR6dpkQ",
+    "title": "Private video",
+    "description": "This video is private.",
+    "channelTitle": "AlNojomia l النجومية",
+    "playlistId": "PL0lrhsxudDfBZMnbTi6y0NsCPglFcyVRo",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vfcLb9AcsM8"
+    }
    }
   }
  ]
