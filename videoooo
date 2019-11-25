@@ -1,42 +1,21 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/DHgrufxYRKql9Ih5ji6LCpN7l3Q\"",
+  "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HYqiW6u4bIwqJlH-7Mz84l6PQiE\"",
   "pageInfo": {
-    "totalResults": 16,
+    "totalResults": 8,
     "resultsPerPage": 50
   },
   "items": [
     {
-
+      "kind": "youtube#playlistItem",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/1qzNCcDULErCSJvCMmryabUscz0\"",
+      "id": "UExLVzdIbWZzS0xld2VVZV9IMGZtaTJvbU85eFlacW1vbS5DQUNERDQ2NkIzRUQxNTY1",
       "snippet": {
-        "title": "غريب ال مخلص - رسايل العشاق (حصرياً) | 2020",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "XAGfzpitvHY"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غريب ال مخلص - اعاتبه برفوق (حصرياً) | 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "2Z3J2Py7cI4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "بعت الحبيب - غريب ال مخلص ومنصور الوايلي (حصرياً) | 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "J7hKYPdiM1M"
-        }
-      }
-    },
-    {
-      "snippet": {
+        "publishedAt": "2019-09-12T17:34:35.000Z",
+        "channelId": "UChM8Sx117PxWYNuVsD0B-jA",
         "title": "يوم الوداع - غريب ال مخلص وعبدالله ال مخلص (حصرياً) | 2019",
+        "playlistId": "PLKW7HmfsKLeweUe_H0fmi2omO9xYZqmom",
+        "position": 0,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "kTi4aU1P3Uk"
@@ -44,89 +23,15 @@
       }
     },
     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/YmwA3RxPzjxLG4TLzb_uj7ZKXOE\"",
+      "id": "UExLVzdIbWZzS0xld2VVZV9IMGZtaTJvbU85eFlacW1vbS41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
-        "title": "أحسبك تمزح - غريب ال مخلص (حصرياً) | 2018",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "3-hunMTWRg4"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غريب ال مخلص - لبى العرب ياعرب | (حصرياُ) 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "eTqzVH0fN24"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غريب ال مخلص - ساكت على الجرح (حصرياُ) | 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "KBm6Mzch_W0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غريب ال مخلص - اتعب القلب فرقاك (حصرياً) | 2018",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Dnn-BC9qg-8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غريب ال مخلص - ضيعت فكري | (حصرياُ) 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "oRAtwKyOZz0"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غريب ال مخلص وخالد المسردي - أوجعني معك | (حصرياً) 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "WMhkMPUakt8"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "ماعرف العب - غريب ال مخلص & عبدالله ال مخلص (حصرياً) | 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "eBOE_gXjJpo"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غريب ال مخلص - لاتجيب العيد (حصرياً) | 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "cOmk7Q4aQ8Y"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "أطهر ذنوبي - غريب ال مخلص & حسن اليامي (حصرياً) | 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "X8mriu5BV7E"
-        }
-      }
-    },
-    {
-      "snippet": {
+        "publishedAt": "2019-06-08T18:21:09.000Z",
+        "channelId": "UChM8Sx117PxWYNuVsD0B-jA",
         "title": "غريب ال مخلص - لحن الفراق (حصرياً) | 2019",
+        "playlistId": "PLKW7HmfsKLeweUe_H0fmi2omO9xYZqmom",
+        "position": 1,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "TrmJlh7BZ2A"
@@ -134,53 +39,15 @@
       }
     },
     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/g7jmDvRy_F8E_wkr7xeutfYvNp8\"",
+      "id": "UExLVzdIbWZzS0xld2VVZV9IMGZtaTJvbU85eFlacW1vbS4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
-        "title": "يتغلى - غريب ال مخلص & منصور الوايلي (حصرياً) | 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "SCS_9NMYOck"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غريب ال مخلص - بعد مارحلوا | (حصرياُ) 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "Nx4XMeyPTVk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "يوم الوداع - غريب ال مخلص وعبدالله ال مخلص (حصرياً) | 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "kTi4aU1P3Uk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "يوم الوداع - غريب ال مخلص وعبدالله ال مخلص (حصرياً) | 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "kTi4aU1P3Uk"
-        }
-      }
-    },
-    {
-      "snippet": {
-        "title": "غريب ال مخلص - لحن الفراق (حصرياً) | 2019",
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "TrmJlh7BZ2A"
-        }
-      }
-    },
-    {
-      "snippet": {
+        "publishedAt": "2019-05-01T03:18:22.000Z",
+        "channelId": "UChM8Sx117PxWYNuVsD0B-jA",
         "title": "غريب ال مخلص وخالد المسردي - أوجعني معك | (حصرياً) 2019",
+        "playlistId": "PLKW7HmfsKLeweUe_H0fmi2omO9xYZqmom",
+        "position": 2,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "WMhkMPUakt8"
@@ -188,8 +55,15 @@
       }
     },
     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/irLzNVqeVPSNa6uH79fLUnba9Pk\"",
+      "id": "UExLVzdIbWZzS0xld2VVZV9IMGZtaTJvbU85eFlacW1vbS4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
+        "publishedAt": "2019-04-10T11:16:48.000Z",
+        "channelId": "UChM8Sx117PxWYNuVsD0B-jA",
         "title": "غريب ال مخلص - ضيعت فكري | (حصرياُ) 2019",
+        "playlistId": "PLKW7HmfsKLeweUe_H0fmi2omO9xYZqmom",
+        "position": 3,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "oRAtwKyOZz0"
@@ -197,8 +71,15 @@
       }
     },
     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/RixHtVQG15VDPanKfLF_6TS9d8A\"",
+      "id": "UExLVzdIbWZzS0xld2VVZV9IMGZtaTJvbU85eFlacW1vbS4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
+        "publishedAt": "2019-03-11T22:09:11.000Z",
+        "channelId": "UChM8Sx117PxWYNuVsD0B-jA",
         "title": "غريب ال مخلص - ساكت على الجرح (حصرياُ) | 2019",
+        "playlistId": "PLKW7HmfsKLeweUe_H0fmi2omO9xYZqmom",
+        "position": 4,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "KBm6Mzch_W0"
@@ -206,8 +87,15 @@
       }
     },
     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QgmZ89S1TrZr2-kL36gdBQhBDGk\"",
+      "id": "UExLVzdIbWZzS0xld2VVZV9IMGZtaTJvbU85eFlacW1vbS41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
+        "publishedAt": "2019-04-10T11:16:48.000Z",
+        "channelId": "UChM8Sx117PxWYNuVsD0B-jA",
         "title": "غريب ال مخلص - بعد مارحلوا | (حصرياُ) 2019",
+        "playlistId": "PLKW7HmfsKLeweUe_H0fmi2omO9xYZqmom",
+        "position": 5,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Nx4XMeyPTVk"
@@ -215,8 +103,15 @@
       }
     },
     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IXShinAIH3hBRRpsGqNiqwqKN-I\"",
+      "id": "UExLVzdIbWZzS0xld2VVZV9IMGZtaTJvbU85eFlacW1vbS4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
+        "publishedAt": "2019-02-07T21:08:12.000Z",
+        "channelId": "UChM8Sx117PxWYNuVsD0B-jA",
         "title": "أطهر ذنوبي - غريب ال مخلص & حسن اليامي (حصرياً) | 2019",
+        "playlistId": "PLKW7HmfsKLeweUe_H0fmi2omO9xYZqmom",
+        "position": 6,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "X8mriu5BV7E"
@@ -224,8 +119,15 @@
       }
     },
     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4EY0lKEusE8Da2YAActpSIABk4o\"",
+      "id": "UExLVzdIbWZzS0xld2VVZV9IMGZtaTJvbU85eFlacW1vbS41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
+        "publishedAt": "2019-01-06T17:19:52.000Z",
+        "channelId": "UChM8Sx117PxWYNuVsD0B-jA",
         "title": "ماعرف العب - غريب ال مخلص & عبدالله ال مخلص (حصرياً) | 2019",
+        "playlistId": "PLKW7HmfsKLeweUe_H0fmi2omO9xYZqmom",
+        "position": 7,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "eBOE_gXjJpo"
