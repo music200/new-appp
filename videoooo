@@ -1,903 +1,343 @@
 {
  "kind": "youtube#playlistItemListResponse",
- "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Hurz8rFJkW24zfN9lIkPWEObvWc\"",
+ "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ndzmEdGXKm5MEu8T3IeITUXwGxs\"",
  "pageInfo": {
-  "totalResults": 23,
+  "totalResults": 8,
   "resultsPerPage": 50
  },
  "items": [
   {
    "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/w8688iAIK5Cucaifx8KJ2eSCu9E\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS41NkI0NEY2RDEwNTU3Q0M2",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Ux3YHcKCw-r8m8TtcWS7n2XzTUE\"",
+   "id": "UEx2SEZ6SEdXT2dJWk9PVTZCTWg0Y3dEWjdTNWY3NzNYeS44NzMxMEU3Nzc2OTJENzgw",
    "snippet": {
-    "publishedAt": "2019-05-08T10:27:46.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الثلاثاء 07 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
+    "publishedAt": "2019-10-04T14:26:14.000Z",
+    "channelId": "UCHK1gXwiweEGjyKklZXbUYA",
+    "title": "MC Alê e MC Rodolfinho - A Entrega (kondzilla.com)",
+    "description": "Mais um funk consciente no Canal KondZilla! \"A Entrega\" é estrelada pelo MC Alê, revelação do funk consciente e MC Rodolfinho, um dos relíquias do funk. Vale a pena conferir!\n\nInscreva-se no NOVO CANAL da KondZilla\nhttp://bit.ly/CanalPortalKondZilla\n\nLETRA:\nFui fazer uma entrega e nela eu tava com a meiota\nFui entregar meu coração pra bandida mais perigosa \nDei um salve lá no zap e ela já deu da resposta: vamo pro Helipa que lá o baile pipoca”\nVamo pra 17 que lá o baile pipoca \nO pai bateu no GPS de bate pronto localiza \nSe não for 17, vai consta lá no Helipa \nE chegando lá nos vai brota na picadilha \nEu trajadão de Oakley e ela toda de Adidas\nVisão passei pra ela fica suave nem tenta eu vou largar do meiotão e pegar da 1200\nCom meu parceiro meu parceirão\n\nTo tocando o robozão\nNa garupa o rabetão \nMão direita no guidão e a outra de copão na mão \n\n\nSHOWS:\nMC Alê:\n(11) 2385-0126\nKondZilla\n(11) 4384-6247\nEncontro de MCs\n\nMC Rodolfinho:\n(11) 2385-0126\nKondZilla\n\nPRODUÇÃO MUSICAL:\nDJ RD\n\nREDES SOCIAIS: \nMC Alê: \nInstagram: @mcale_oficial\nFacebook: facebook.com/mcalereal\n\nMC Rodolfinho:\nInstagram: @mcrodolfinho\nFacebook: facebook.com/McRodolfinhoOficial/\n\nOUÇA NOSSOS HITS:\nhttp://bit.ly/LançamentosFunks2019\nhttp://bit.ly/MelhoresFunksKondZilla\n\n\n#Funk #KondZilla #MCAleeMCRodolfinho #PortalKondZilla #FavelaVenceu #SomosPlural\nCopyright © 2018 KondZilla® Filmes Ltda. Todos os direitos reservados.",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/hva25T0DQzA/default.jpg",
+      "url": "https://i.ytimg.com/vi/yBWa4Qik4T4/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/hva25T0DQzA/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/yBWa4Qik4T4/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/hva25T0DQzA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 0,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "hva25T0DQzA"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZkMMJ0Bwrn7y4gJCE41PdefM58o\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS4yODlGNEE0NkRGMEEzMEQy",
-   "snippet": {
-    "publishedAt": "2019-05-09T13:38:21.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الأربعاء 08 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/iFdL8I2Zj5g/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/iFdL8I2Zj5g/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/iFdL8I2Zj5g/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/yBWa4Qik4T4/hqdefault.jpg",
       "width": 480,
       "height": 360
      },
      "standard": {
-      "url": "https://i.ytimg.com/vi/iFdL8I2Zj5g/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 1,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "iFdL8I2Zj5g"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vXMaHt34fIgUxXlAKJqQTmus9lw\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS4wMTcyMDhGQUE4NTIzM0Y5",
-   "snippet": {
-    "publishedAt": "2019-05-10T10:12:54.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الخميس 09 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/cajTFZGHckg/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/cajTFZGHckg/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/cajTFZGHckg/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/cajTFZGHckg/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 2,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "cajTFZGHckg"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/YvspToKgayp-5RKo6kuFVRMNxqI\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS41MjE1MkI0OTQ2QzJGNzNG",
-   "snippet": {
-    "publishedAt": "2019-05-11T11:24:24.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الجمعة 10 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/OipR3wWe7hA/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/OipR3wWe7hA/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/OipR3wWe7hA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/OipR3wWe7hA/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 3,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "OipR3wWe7hA"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/K3-tUiCf7MMKENKdU9JHP0I_Ydo\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS4wOTA3OTZBNzVEMTUzOTMy",
-   "snippet": {
-    "publishedAt": "2019-05-13T10:49:33.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الأحد 12 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/194FiL76EBM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/194FiL76EBM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/194FiL76EBM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/194FiL76EBM/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 4,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "194FiL76EBM"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5DfL9iwScDN4ku4jhTDztU189IM\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS4xMkVGQjNCMUM1N0RFNEUx",
-   "snippet": {
-    "publishedAt": "2019-05-14T11:02:54.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الإتنين 13 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/JHf49VX8q7E/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/JHf49VX8q7E/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/JHf49VX8q7E/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/JHf49VX8q7E/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 5,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "JHf49VX8q7E"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_uHFKwaFaSKvxUa6-wtb9AtY_j4\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS41MzJCQjBCNDIyRkJDN0VD",
-   "snippet": {
-    "publishedAt": "2019-05-15T10:12:00.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الثلاثاء 14 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/88DFaf4T7eQ/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/88DFaf4T7eQ/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/88DFaf4T7eQ/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/88DFaf4T7eQ/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 6,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "88DFaf4T7eQ"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wI9DScBvrB6tuaQp2w7dUXLV1ME\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS5DQUNERDQ2NkIzRUQxNTY1",
-   "snippet": {
-    "publishedAt": "2019-05-16T10:28:19.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الأربعاء 15 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/VJhO1zRXD9I/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/VJhO1zRXD9I/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/VJhO1zRXD9I/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/VJhO1zRXD9I/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 7,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "VJhO1zRXD9I"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5bMKU_IPv7GLKABPQtrtU-FyZ0Y\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS45NDk1REZENzhEMzU5MDQz",
-   "snippet": {
-    "publishedAt": "2019-05-17T10:50:31.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الخميس 16 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/KmzZEB2_k7Y/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/KmzZEB2_k7Y/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/KmzZEB2_k7Y/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 8,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "KmzZEB2_k7Y"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Wep-ATtC5DwR4vjFdKoQ3XE9Y3A\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS5GNjNDRDREMDQxOThCMDQ2",
-   "snippet": {
-    "publishedAt": "2019-05-18T09:58:24.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الجمعة 17 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/AHuZhdA30Pk/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/AHuZhdA30Pk/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/AHuZhdA30Pk/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/AHuZhdA30Pk/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 9,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "AHuZhdA30Pk"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/K_wUgbn8aGSq2jpyr02hTRhqFIc\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS40NzZCMERDMjVEN0RFRThB",
-   "snippet": {
-    "publishedAt": "2019-05-19T19:06:40.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : السبت 18 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/_Vis-Qw1tFA/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/_Vis-Qw1tFA/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/_Vis-Qw1tFA/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 10,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "_Vis-Qw1tFA"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/SzZtqn4CTHdSqn2Qc16gHVt6q6k\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS5EMEEwRUY5M0RDRTU3NDJC",
-   "snippet": {
-    "publishedAt": "2019-05-20T10:27:41.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الأحد 19 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/R9HBpJ-o2sw/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/R9HBpJ-o2sw/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/R9HBpJ-o2sw/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/R9HBpJ-o2sw/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 11,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "R9HBpJ-o2sw"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pYDytWsOlrpqfrRm0jm7czjfbyM\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS45ODRDNTg0QjA4NkFBNkQy",
-   "snippet": {
-    "publishedAt": "2019-05-21T10:39:28.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الإتنين 20 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/DHRyti7cIyc/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/DHRyti7cIyc/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/DHRyti7cIyc/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 12,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "DHRyti7cIyc"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aizFFzvIfYw0pPsMJL-2ISNXP68\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS4zMDg5MkQ5MEVDMEM1NTg2",
-   "snippet": {
-    "publishedAt": "2019-05-24T10:19:45.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الخميس 23 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/-BMCC-EE-z8/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/-BMCC-EE-z8/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/-BMCC-EE-z8/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/-BMCC-EE-z8/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 13,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "-BMCC-EE-z8"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/V_HpOvi8a2N5Ckq6UBoS046bS6s\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS5EQUE1NTFDRjcwMDg0NEMz",
-   "snippet": {
-    "publishedAt": "2019-05-27T10:50:31.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الأحد 26 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/iS2qNcXhtDM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/iS2qNcXhtDM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/iS2qNcXhtDM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/iS2qNcXhtDM/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 14,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "iS2qNcXhtDM"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_p8IyeZLYnRM3vWtjsFKz4VrO_w\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS41QTY1Q0UxMTVCODczNThE",
-   "snippet": {
-    "publishedAt": "2019-05-28T12:23:39.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الإتنين 27 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/nSC3TcsEXYc/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/nSC3TcsEXYc/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/nSC3TcsEXYc/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/nSC3TcsEXYc/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 15,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "nSC3TcsEXYc"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jjoJzPVt-X0FhRDlZj-xkw6is3M\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS4yMUQyQTQzMjRDNzMyQTMy",
-   "snippet": {
-    "publishedAt": "2019-05-29T10:30:45.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "بركة تجمعنا : الثلاثاء 28 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/zCkGvh6VqjQ/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/zCkGvh6VqjQ/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/zCkGvh6VqjQ/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/zCkGvh6VqjQ/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 16,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "zCkGvh6VqjQ"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HjY71aeY7_xKob6ifVgz4TZ5VRE\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS45RTgxNDRBMzUwRjQ0MDhC",
-   "snippet": {
-    "publishedAt": "2019-05-29T10:34:45.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الثلاثاء 28 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/_n_tL9ACLas/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/_n_tL9ACLas/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/_n_tL9ACLas/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/_n_tL9ACLas/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 17,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "_n_tL9ACLas"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/bpYhfg4WP6_cesivnOboHM3gRVo\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS5ENDU4Q0M4RDExNzM1Mjcy",
-   "snippet": {
-    "publishedAt": "2019-05-30T12:00:59.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الأربعاء 29 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/gewOVb3yL9s/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/gewOVb3yL9s/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/gewOVb3yL9s/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/gewOVb3yL9s/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 18,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "gewOVb3yL9s"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9lzc9xOyH5pev3Y7yc25xyOlubE\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS4yMDhBMkNBNjRDMjQxQTg1",
-   "snippet": {
-    "publishedAt": "2019-05-31T11:24:54.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الخميس 30 ماي 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/6mFC6RNRQ6k/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/6mFC6RNRQ6k/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/6mFC6RNRQ6k/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 19,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "6mFC6RNRQ6k"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/rFpkEJXP-EHtMYV6ggnaEPMDSKc\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS5GM0Q3M0MzMzY5NTJFNTdE",
-   "snippet": {
-    "publishedAt": "2019-06-03T11:05:06.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الأحد 02 يونيو 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/dr2Z-BUBSXg/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/dr2Z-BUBSXg/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/dr2Z-BUBSXg/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/dr2Z-BUBSXg/sddefault.jpg",
-      "width": 640,
-      "height": 480
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 20,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "dr2Z-BUBSXg"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/W50UEgqdF6hCfEn7XLB5UzWtIAw\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS4zRjM0MkVCRTg0MkYyQTM0",
-   "snippet": {
-    "publishedAt": "2019-06-04T12:26:31.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "راجلي فالكوزينة : الإتنين 03 يونيو 2019",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/mB_UqgaMGnQ/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/mB_UqgaMGnQ/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/mB_UqgaMGnQ/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 21,
-    "resourceId": {
-     "kind": "youtube#video",
-     "videoId": "mB_UqgaMGnQ"
-    }
-   }
-  },
-  {
-   "kind": "youtube#playlistItem",
-   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/877ZBy6TIssnYakUitIIIV5maeo\"",
-   "id": "UEw2dERhOG5lTjZ0SHhTN0lnMXZmVXVoS0g1c0hxOE1KVS45NzUwQkI1M0UxNThBMkU0",
-   "snippet": {
-    "publishedAt": "2019-06-18T20:25:49.000Z",
-    "channelId": "UClozwh5URilIQpDFeXch8qw",
-    "title": "Rajli F'Lcouzina - راجلي فالكوزينة : Les Coulisses",
-    "description": "http://www.2m.ma\nSubscribe: http://goo.gl/JkTkvZ\nLike on Facebook : http://goo.gl/q3aNs7\nFollow on Twitter : http://goo.gl/2a8ZnZ\nFollow on Instagram : http://goo.gl/6j2mVv",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/uQj0VEZdj_M/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/uQj0VEZdj_M/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/uQj0VEZdj_M/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     },
-     "standard": {
-      "url": "https://i.ytimg.com/vi/uQj0VEZdj_M/sddefault.jpg",
+      "url": "https://i.ytimg.com/vi/yBWa4Qik4T4/sddefault.jpg",
       "width": 640,
       "height": 480
      },
      "maxres": {
-      "url": "https://i.ytimg.com/vi/uQj0VEZdj_M/maxresdefault.jpg",
+      "url": "https://i.ytimg.com/vi/yBWa4Qik4T4/maxresdefault.jpg",
       "width": 1280,
       "height": 720
      }
     },
-    "channelTitle": "2MTV",
-    "playlistId": "PL6tDa8neN6tHxS7Ig1vfUuhKH5sHq8MJU",
-    "position": 22,
+    "channelTitle": "Mc Alê - Topic",
+    "playlistId": "PLvHFzHGWOgIZOOU6BMh4cwDZ7S5f773Xy",
+    "position": 0,
     "resourceId": {
      "kind": "youtube#video",
-     "videoId": "uQj0VEZdj_M"
+     "videoId": "yBWa4Qik4T4"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/I1mr4TeNZtNxhWF1ZoSZCup3SYg\"",
+   "id": "UEx2SEZ6SEdXT2dJWk9PVTZCTWg0Y3dEWjdTNWY3NzNYeS5BRUJEQkY1Q0I5QTNFQjFG",
+   "snippet": {
+    "publishedAt": "2019-10-04T14:26:14.000Z",
+    "channelId": "UCHK1gXwiweEGjyKklZXbUYA",
+    "title": "MC Alê - Mais Um Dia de Vida (DJ Alle Mark)",
+    "description": "Adicione no Facebook : http://bit.ly/2VxSYU7\n\nSiga no Instagram : http://bit.ly/2Q7BlZY\n\nFaça já o Download! : http://bit.ly/mcalemaisumdia\n\nDivulgue sua música conosco : \n\nFalar c/ Iguin | (016) 99404-0458\n\nObs: Solicitar um Orçamento.\n\nInscreva-se no canal e ative as notificações!.\n\nMC Alê - Mais Um Dia de Vida (DJ Alle Mark)\n\n#IGUINFUNKINSANO #FUNK2019\n\nCopyright © 2019 IguinFunkInsano® Ltda. Todos os direitos reservados.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UZY-t8c2cRc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UZY-t8c2cRc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UZY-t8c2cRc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/UZY-t8c2cRc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/UZY-t8c2cRc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Mc Alê - Topic",
+    "playlistId": "PLvHFzHGWOgIZOOU6BMh4cwDZ7S5f773Xy",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UZY-t8c2cRc"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/hfMqscClYWry2UdfljMlZPsxP1Y\"",
+   "id": "UEx2SEZ6SEdXT2dJWk9PVTZCTWg0Y3dEWjdTNWY3NzNYeS5DNEZBRDYwOEExMjk4MjFB",
+   "snippet": {
+    "publishedAt": "2019-10-04T14:26:14.000Z",
+    "channelId": "UCHK1gXwiweEGjyKklZXbUYA",
+    "title": "MC Alê e MC Neguin da BRC - Enrola O Cabo (kondzilla.com)",
+    "description": "Acesse o Portal KondZilla\nhttps://goo.gl/5pZpcC\n\nInscreva-se no Favela Venceu by KondZilla:\nhttps://goo.gl/a7Tt6X\n\nConfira os lançamentos da KondZilla Wear\nhttp://bit.ly/kondzillawear\n\nPlaylist KondZilla:\nhttp://bit.ly/KondZillaRecords\n\nSHOWS:\nMC Alê:\n(11) 2385-0126\nKondZilla\n(11) 4384-6247\nEncontro de MCs\n\nMC Neguin da BRC:\n(11)4384-6247 \n(11) 94014-2769 \nEncontro de MCs\n\n\nPRODUÇÃO MUSICAL:\nDJ Biel Bolado e DJ Russo\n\nDIREÇÃO:\nFelipe Schimidt\n\nREDES SOCIAIS:\nMC Alê:\nInstagram: @mcale_oficial\n\nMC Neguin da BRC:\nInstagram: @mcneguindabrc\nFacebook: facebook.com/neguindabrcofc\n\nLETRA:\nNo peão, passei lá na favela, chavaiando tudão\nQuem ganhou, ficou pousado e quem não viu, não viu mais não\nA traseira do meu navão, em cima do pisca alerta, ela vai jogar o rabetão\n\nEnrola o cabo dessa 66, vamos ver se ela tá potente\nNa garupa o rabetão, nas vielas grau consciente\nÉ que eu tenho o dom e também levo de mente\nMinha vida, minha rabeta e minha navera quente\n\n#Funk #KondZilla #MCAleeMCNeguindaBRC #PortalKondZilla #FavelaVenceu #SomosPlural\nCopyright © 2018 KondZilla® Filmes Ltda. Todos os direitos reservados.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/99peSr3InqE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/99peSr3InqE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/99peSr3InqE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/99peSr3InqE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/99peSr3InqE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Mc Alê - Topic",
+    "playlistId": "PLvHFzHGWOgIZOOU6BMh4cwDZ7S5f773Xy",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "99peSr3InqE"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/YcDdNwdX9v3r9cnVS3pKIzHzmCg\"",
+   "id": "UEx2SEZ6SEdXT2dJWk9PVTZCTWg0Y3dEWjdTNWY3NzNYeS5GMEFGNzUzMDZDMzBBNkQ3",
+   "snippet": {
+    "publishedAt": "2019-10-04T14:26:14.000Z",
+    "channelId": "UCHK1gXwiweEGjyKklZXbUYA",
+    "title": "MC Alê - Festa Na Favela (kondzilla.com)",
+    "description": "Inscreva-se no NOVO CANAL da KondZilla\nhttp://bit.ly/CanalPortalKondZilla\n\nOUÇA NOSSOS HITS:\nhttp://bit.ly/LançamentosKondZillaYou...\nhttp://bit.ly/MelhoresFunks2019KondZilla\nhttp://bit.ly/KondZillaSpotify\n\nSHOWS:\n(11) 2385-0126\nKondZilla\n(11) 4384-6247\nEncontro de MCs\n\nDIREÇÃO:\nTico Fernandes\n\nPRODUÇÃO MUSICAL:\nDJ RD\n\nREDES SOCIAIS: \nFacebook: facebook.com/mcalereal\nInstagram.com/mcale_oficial\n\nLETRA:\nTo de pião lá na favela\nNa garupa uma donzela\nMotor do ano nave zera\nSobe escadão, desce viela\nMil e duzentas é a cilindrada\nTamo no pião lá na quebra\nRealizei o meu sonho\nNóis é cria da favela\nEntão vamo comigo se alegra\nVamo comigo se alegra\n\nHoje é rave na favela\nHoje é festa na favela\nRealizei o meu sonho\nE desfruto tanto dela\nRealizei o meu sonho\nE que a felicidade impera\nEntre as favelas\n\n#Funk #KondZilla #MCAle #PortalKondZilla #FavelaVenceu #SomosPlural\nCopyright © 2019 KondZilla®. Todos os direitos reservados.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_IKa-Bl1LNQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_IKa-Bl1LNQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_IKa-Bl1LNQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/_IKa-Bl1LNQ/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/_IKa-Bl1LNQ/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Mc Alê - Topic",
+    "playlistId": "PLvHFzHGWOgIZOOU6BMh4cwDZ7S5f773Xy",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_IKa-Bl1LNQ"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jIiO3BIwwIMnuBat5ywweTRIeFg\"",
+   "id": "UEx2SEZ6SEdXT2dJWk9PVTZCTWg0Y3dEWjdTNWY3NzNYeS40RkM1MTBDM0M3MzNCQjZF",
+   "snippet": {
+    "publishedAt": "2019-10-04T14:26:14.000Z",
+    "channelId": "UCHK1gXwiweEGjyKklZXbUYA",
+    "title": "MC Alê - Fui Dormir com Ela - Preta cor de Chumbo ( VideoClipe Oficial )",
+    "description": "(((((((((((((((((((((((((((((( Instagram: @igor_elencodofunk )))))))))))))))\n\nInscreva - se no canal e ative as notificações! (clicando no sininho ao lado \"🔔✅\")\n\n♛ ▁ ▂ ▃ ▄ ▅ ▆ INSCREVA-SE ▆ ▅ ▄ ▃ ▂ ▁ ♛\n\nfunk lançamento 2017,música nova de funk 2017,funk 2017\n\n➥ Meu Instagram - https://goo.gl/YM68vg\n➥ Download Direto - https://goo.gl/grCKT5\n➥ Ouça Com Grave : https://goo.gl/7qU13i\n\n➥ Artista: MC Alê\n➥ Música: Fui Dormir com ela - Preta cor de chumbo\n➥ Gênero:Funk,Funk Ousado,Funk De Fluxo,Funk Dançante,Funk De Favela,Funk De Rua\nAno:2017\n\n➥ Divulgue sua música ou vídeo conosco\n\n➥ Email : Igorelencodofunkenvia@gmail.com\n\n➥ Facebook - https://goo.gl/gyYKDE\n\n➥ Se Inscreva-se - https://goo.gl/MwoYhC\n\n➥ Meu Soundcloud - https://goo.gl/grCKT5\n\n➥ Meu Instagram - https://goo.gl/YM68vg\n\n➥ Todos os Direitos Reservados.\nCopyright © IGOR ELENCO DO FUNK® Ltda.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ZNpG_-9EALw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ZNpG_-9EALw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ZNpG_-9EALw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mc Alê - Topic",
+    "playlistId": "PLvHFzHGWOgIZOOU6BMh4cwDZ7S5f773Xy",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ZNpG_-9EALw"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/1WPrKhPw-x3aKQy-dVc2vy64eJA\"",
+   "id": "UEx2SEZ6SEdXT2dJWk9PVTZCTWg0Y3dEWjdTNWY3NzNYeS45NjE2MTg1NDFBNUI2NzM4",
+   "snippet": {
+    "publishedAt": "2019-10-04T14:26:14.000Z",
+    "channelId": "UCHK1gXwiweEGjyKklZXbUYA",
+    "title": "Mc Alê - Eu Sou Revelação (Videoclipe) Encontro de MC'S - Prod. DJ Biel Bolado",
+    "description": "CONTRATE : 11 4384-6247 (Encontro de MC'S)\n\nFicha técnica Vídeo Clipe\nDireção: Encontro de MC'S  \nProdução Executiva: Encontro de MC'S\nDireção de Fotografia: DJ Biel Bolado\nOperação de Câmera: DJ Biel Bolado\nEdição e Cor: DJ Biel Bolado\nProdução Musical: DJ Biel Bolado\n\nContato para shows: \n(11) 94014-2769 (Patrick)\nInstagram: @encontrodemcsprodutora \nFan Page: Encontro de MC's",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/q01kxMRSrFY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/q01kxMRSrFY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/q01kxMRSrFY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/q01kxMRSrFY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/q01kxMRSrFY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "Mc Alê - Topic",
+    "playlistId": "PLvHFzHGWOgIZOOU6BMh4cwDZ7S5f773Xy",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "q01kxMRSrFY"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/O9du0NIf_zXGqn4wExzoJZCdbgk\"",
+   "id": "UEx2SEZ6SEdXT2dJWk9PVTZCTWg0Y3dEWjdTNWY3NzNYeS4wQThDN0VCRTU1NTE5MzM5",
+   "snippet": {
+    "publishedAt": "2019-10-04T14:26:14.000Z",
+    "channelId": "UCHK1gXwiweEGjyKklZXbUYA",
+    "title": "Mc Alê - Perdoa Mãe Medley Pesado - (DJ GUh mix) Exclusiva 2019",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hLF7vbiD6gs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hLF7vbiD6gs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hLF7vbiD6gs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/hLF7vbiD6gs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "Mc Alê - Topic",
+    "playlistId": "PLvHFzHGWOgIZOOU6BMh4cwDZ7S5f773Xy",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "hLF7vbiD6gs"
+    }
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/B4NxpY7vTNxHzC72xmPBc2NQVqo\"",
+   "id": "UEx2SEZ6SEdXT2dJWk9PVTZCTWg0Y3dEWjdTNWY3NzNYeS4yNjA1MTRFRDQxN0UyQjhB",
+   "snippet": {
+    "publishedAt": "2019-10-04T14:26:14.000Z",
+    "channelId": "UCHK1gXwiweEGjyKklZXbUYA",
+    "title": "MC ALE - Eres Tú",
+    "description": "Producción de Video por SoloSinLuz Producciones\nContacto: solosinluzproducciones@gmail.com \n\nProducción de Música\nTomas Ritmo Music\nhttps://www.instagram.com/tomaritmogram\n\nNayzi On The Beat\nhttps://www.instagram.com/elnayzi\n\nRedes sociales\n\nInstagram: https://www.instagram.com/mc_aleofficial\n\nLetra de la canción:\nMai tu me pones a viajar\nA la luna cuando un blueberry empiezo a quemar\nEs que me vuelve loco tu figura fenomenal\nY esa sonrisa poco a poco me hace temblar (Yeheh)\n\nCoro:\nEs que eres tú,\nLa que me mata, me besa,\nMe hace cosas locas a poca luz\nLa que me pone a alucinar si no la tengo solo eres tú,\nPonteme bien suelta Mai que esa es tú virtud,\nSolo eres tú\n\nEn la que yo pienso 24/7\nY cualquiera que se entromete\nLe damos plomazos como se debe,\nLa que pienso todos los días,\nMami de noche y de día\nAndo activo quiero hacerte muchas fresquerias\n\nBlack Label a las rocas, tu sabes como la mente explota\nEsta noche mami duro te toca,\nSoy un loco demente,\nTengo el Flow potente\nY tu cuerpo en mi cama ready ardiente\n\nVamo' a navegar,\nTengo un scan si quieres fumar\nY ese cuerpito que me tiene crazy\nBaby yo lo quiero probar\n\nCon su olor a 212, vestida de Zara,\nLe gusta lo exclusive, con ninguna se compara,\nSe le nota en su cara que me tiene ganas\nElla es adictiva como la marihuana\n\nY yo asumo que no te paro eh pensar,\nY que cada vez tu me pones a alucinar\nQue tu vuelves y conmigo te desenvuelves,\nYa no lo pienses más mejor un phillie prende (x2)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5TWzJ05Tt6U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5TWzJ05Tt6U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5TWzJ05Tt6U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Mc Alê - Topic",
+    "playlistId": "PLvHFzHGWOgIZOOU6BMh4cwDZ7S5f773Xy",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "5TWzJ05Tt6U"
     }
    }
   }
