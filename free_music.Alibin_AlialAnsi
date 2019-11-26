@@ -1,0 +1,299 @@
+{
+  "euro": [
+    {
+      "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+      "poloPRO": "ffffffffffff",
+      "nain1": "iiiiiiii",
+      "nain2": "iiiiiiii",
+      "nain3": "iiiiiiii",
+      "nain4": "iiiiiiii",
+      "bain1": "bbbbbbbb",
+      "bain2": "bbbbbbbb",
+      "stor": "https://play.google.com/store/apps/developer?id=agani_+music_mp3",
+      "imageurl":"https://i.ytimg.com/vi/L6Hu1J7ZOY0/maxresdefault.jpg",
+      "FAban": "",
+      "FAint": "",
+      "isadsFG": ""
+    }
+  ],
+  "obPhoto": [
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+
+    }
+  ],
+  "media": [
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"خطر غصن القنا",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/1.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"رسولي قوم بلغ",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/2.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يا مستجيب الداعي",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/3.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"مسكين يا ناس",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/4.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"اهلا بمن داس",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/5.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يا قمري صنعاء",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/6.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"استودع الله",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/7.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يامن علي بالتجافي",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/8.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"ممشوق القوام",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/9.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يا لاقي الضائعة",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/10.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"حركت اوتاري",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/11.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"لو هو صحيح",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/12.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":" وقف وودع",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/13.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يا شاري البرق",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/14.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"انستنا يا عيد - عود وايقاعات",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/15.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"اتركوني مع الهوى",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/16.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"طرب سجوعه",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/17.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"الغزالة",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/18.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يا بدر طالع ",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/19.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"قد علموه",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/20.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"قد علموه - موسيقى",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/21.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"لنت الزجاج انا كسيرك الماس",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/22.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"معي صديق أحنجه",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/23.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"خطر غصن القنا",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/1.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"رسولي قوم بلغ",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/2.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يا مستجيب الداعي",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/3.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"مسكين يا ناس",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/4.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"اهلا بمن داس",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/5.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يا قمري صنعاء",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/6.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"استودع الله",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/7.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يامن علي بالتجافي",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/8.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"ممشوق القوام",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/9.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يا لاقي الضائعة",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/10.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"حركت اوتاري",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/11.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"لو هو صحيح",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/12.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":" وقف وودع",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/13.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يا شاري البرق",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/14.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"انستنا يا عيد - عود وايقاعات",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/15.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"اتركوني مع الهوى",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/16.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"طرب سجوعه",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/17.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"الغزالة",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/18.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"يا بدر طالع ",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/19.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"قد علموه",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/20.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"قد علموه - موسيقى",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/21.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"لنت الزجاج انا كسيرك الماس",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/22.mp3"
+ },
+    {
+"imageurl":"https://i.ytimg.com/vi/8OhXjoR4bJc/hqdefault.jpg",
+"name":"معي صديق أحنجه",
+"uel":"https://ia601403.us.archive.org/7/items/15_20190626_201906/23.mp3"
+    }
+  ]
+}
