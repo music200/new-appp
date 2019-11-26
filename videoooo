@@ -1305,6 +1305,51 @@
           "videoId": "wKfbu7l8IYo"
         }
       }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qlHc2eNkRFj7MP6_R52pP1-vU60\"",
+      "id": "UEx2WW94MHh1ZTBNV3EwMmNXQ0Frd3N2TU8zeTFLa0RJWi42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2019-11-25T20:22:41.000Z",
+        "channelId": "UCffDXn7ycAzwL2LDlbyWOTw",
+        "title": "Rap Glamurosa (Remix 150) - Tati Quebra Barraco, DJ Marlboro, Polyvox ft. Tati Zaqui (KondZilla.com)",
+        "description": "Já imaginou uma releitura acelerada de um dos clássicos do funk? A KondZilla reuniu nada menos que Tati Quebra Barraco, DJ Polyvox, DJ Marlboro e Tati Zaqui para recriar o Rap da Glamurosa. Confira agora!\n\nOUÇA NOSSOS HITS:\nhttp://bit.ly/LançamentosFunks2019\nhttp://bit.ly/MelhoresFunksKondZilla\nLETRA:\nLetra:\nGlamurosa!\nRainha do funk\nPoderosa!\nOlhar de diamante\nNos envolve, nos fascina\nAgita o salão\nBalança gostoso\nRequebrando até o chão\n\nSe quiser falar de amor\nSei fazer direitinho\nVou te lambuzar\nTe encher de carinho\n\nEm matéria de amor\nTodos me conhecem bem\nVou fazer tu vibrar\nNo meu estilo vai e vem\n\nTua menina doida\nVai te dar beijo na boca\nBeijar teu corpo inteiro\nMe deixa muito louca\n\nVem! Vem dançar!\nEmpino o meu popozão\nRemexo gostoso\nE vou descendo até o chão\n\nGlamurosa!\nRainha do funk\nPoderosa!\nOlhar de diamante\nNos envolve, nos fascina\nAgita o salão\nBalança gostoso\nRequebrando até o chão\n\nPretinha, moreninha\nRuiva e loirinha\nTe deixo doidinho\nQuando danço a tremidinha\n\nO funk do meu Rio\nSe espalhou pelo Brasil\nAté quem não gostava\nQuando ouviu não resistiu\n\nMulheres saradas\nLindas, deslumbrantes\nCorpo de sereia\nOlhar bem excitante\n\nSe tu não curte o funk\nPode crer tá de bobeira\nBote uma beca esperta\nE se junte à massa funkeira\n\nGlamurosa!\nRainha do funk\nPoderosa!\nOlhar de diamante\nNos envolve, nos fascina\nAgita o salão\nBalança gostoso\nRequebrando até o chão\n\nPRODUÇÃO MUSICAL:\n DJ Polyvox e DJ Marlboro\nDIREÇÃO:\nGabriel Zerra\n\nREDES SOCIAIS:\nDJ Polyvox: https://www.instagram.com/polyvox_dj/?hl=pt-br\nDJ Marlboro: https://www.instagram.com/djmarlboro/?hl=pt-br\nTati Quebra Barraco: https://www.instagram.com/tatiquebrabarracooficial/?hl=pt-br\nTati Zaqui: https://www.instagram.com/tatizaqui/?hl=pt-br\n\n\n#SkolBeats #KondZilla #Glamurosa #Funk  #Acelerou \n #PortalKondZilla #Publicidade  #FavelaVenceu #SomosPlural\nCopyright © 2019 KondZilla®. Todos os direitos reservados.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PpMCyw5u9dY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PpMCyw5u9dY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PpMCyw5u9dY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PpMCyw5u9dY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PpMCyw5u9dY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Canal KondZilla",
+        "playlistId": "PLvYox0xue0MWq02cWCAkwsvMO3y1KkDIZ",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PpMCyw5u9dY"
+        }
+      }
     }
   ]
 }
