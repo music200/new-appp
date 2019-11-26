@@ -1,0 +1,393 @@
+{
+  "euro": [
+    {
+      "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
+      "poloPRO": "ffffffffffff",
+      "nain1": "iiiiiiii",
+      "nain2": "iiiiiiii",
+      "nain3": "iiiiiiii",
+      "nain4": "iiiiiiii",
+      "bain1": "bbbbbbbb",
+      "bain2": "bbbbbbbb",
+      "stor": "https://play.google.com/store/apps/developer?id=agani_+music_mp3",
+      "imageurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgb_DoMcFqeei6w6pvZs8cN1ZW__3YQ82RNyuSIWDG9RHPE54l6Q&s",
+      "FAban": "",
+      "FAint": "",
+      "isadsFG": ""
+    }
+  ],
+  "obPhoto": [
+    {
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Zain_Bhikha.jpg"
+    },
+    {
+      "photo": "https://upload.wikimedia.org/wikipedia/id/thumb/f/fe/ZaB.jpg/220px-ZaB.jpg"
+    },
+    {
+      "photo": "https://alchetron.com/cdn/zain-bhikha-f437498d-6ea4-44c9-9838-9ce6bd6ae03-resize-750.jpeg"
+    },
+    {
+      "photo": "https://www.maghreb.space/P622948/a77d126c16319b0ac6db2e0d54fe6550/___www_maghrebspace_net__01092012101330_909Zain%20bhikha.jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+    },
+    {
+      "photo": "jpg"
+
+    }
+  ],
+  "media": [
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"AisforAllah",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/AisforAllah.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Allahisenoughforme",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/Allahisenoughforme.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Cloud of Islam",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/CloudOfIslam.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"GiveThanksToAllahAzawajal",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/GiveThanksToAllahAzawajal.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Have You Heard",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/HaveYouHeard.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"I won't weep for You",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/Iwontweepforyou.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Lord of all the Worlds",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/LordofalltheWorlds.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"MountHira",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/MountHira.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"WhereweBelong",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/WhereweBelong.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Wonderful World",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/Wonderfulworld.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Free (Voice-Only)",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/01.%20Free%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Land of Revelation",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/02.%20Land%20of%20Revelation%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"That Moment He Smiled",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/03.%20That%20Moment%20He%20Smiled%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Close Your Eyes",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/04.%20Close%20Your%20Eyes%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Ça C'est La Vie",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/05.%20%C3%87a%20C'est%20La%20Vie%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Hasbun' Allah",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/06.%20Hasbun'%20Allah%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Allah Made Everything",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/07.%20Allah%20Made%20Everything%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Allah Remains",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/08.%20Allah%20Remains%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"The Passing Traveller",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/09.%20The%20Passing%20Traveller%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"zamilooni",
+"uel":"https://archive.org/download/zamilooni_ft._zain_bhikha/15-zamilooni_ft._zain_bhikha.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Allah Knows",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/01-AllahKnows.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Flowers are Red",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/02-FlowersAreRed.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"My Mum is Amazing",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/03-MyMumIsAmazing.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Pizza in his pocket",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/04-PizzaInHisPocket.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Lay down your head",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/05-LayDownYourHead.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Slowly Slow",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/07-SlowlySlow.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Deen-il-Islam",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/09-Deen-il-islam.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"AisforAllah",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/AisforAllah.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Allahisenoughforme",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/Allahisenoughforme.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Cloud of Islam",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/CloudOfIslam.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"GiveThanksToAllahAzawajal",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/GiveThanksToAllahAzawajal.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Have You Heard",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/HaveYouHeard.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"I won't weep for You",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/Iwontweepforyou.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Lord of all the Worlds",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/LordofalltheWorlds.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"MountHira",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/MountHira.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"WhereweBelong",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/WhereweBelong.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Wonderful World",
+"uel":"https://archive.org/download/ZainBhikha-FaithAlbum/Wonderfulworld.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Free (Voice-Only)",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/01.%20Free%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Land of Revelation",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/02.%20Land%20of%20Revelation%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"That Moment He Smiled",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/03.%20That%20Moment%20He%20Smiled%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Close Your Eyes",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/04.%20Close%20Your%20Eyes%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Ça C'est La Vie",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/05.%20%C3%87a%20C'est%20La%20Vie%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Hasbun' Allah",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/06.%20Hasbun'%20Allah%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Allah Made Everything",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/07.%20Allah%20Made%20Everything%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Allah Remains",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/08.%20Allah%20Remains%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"The Passing Traveller",
+"uel":"https://archive.org/download/ZainBhikha-PassingTraveller_201708/09.%20The%20Passing%20Traveller%20(Voice-Only).mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"zamilooni",
+"uel":"https://archive.org/download/zamilooni_ft._zain_bhikha/15-zamilooni_ft._zain_bhikha.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Allah Knows",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/01-AllahKnows.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Flowers are Red",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/02-FlowersAreRed.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"My Mum is Amazing",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/03-MyMumIsAmazing.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Pizza in his pocket",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/04-PizzaInHisPocket.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Lay down your head",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/05-LayDownYourHead.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Slowly Slow",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/07-SlowlySlow.mp3"
+ },
+    {
+"imageurl":"https://www.interestingworldfacts.com/wp-content/uploads/2016/10/Zain-Bhikha-Singing-300x230.jpg",
+
+"name":"Deen-il-Islam",
+"uel":"https://archive.org/download/Islamhome.info_Allah_Knows__Zain_Bhikha/09-Deen-il-islam.mp3"
+}
+]
+}
