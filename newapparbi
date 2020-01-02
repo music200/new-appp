@@ -1,6 +1,10 @@
 {
   "obApp": [
     {
+    "app": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F3141897564%2F901ebf4f672fd71a590cc2c4fc4ad801_400x400.jpeg&f=1&nofb=1",
+      "url": "com.devlapis.imran"
+    },
+    {
       "app": "https://pbs.twimg.com/media/EG2xFI7XYAYUUcR.jpg",
       "url": "free_music.Saif_Nabeel"
     },
