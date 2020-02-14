@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "isam": "WhatsApp Messenger",
+      "image": "https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=s180",
+      "pack": "com.whatsapp"
+    },
+    {
+      "isam": "Facebook",
+      "image": "https://lh3.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg=s180",
+      "pack": "com.facebook.katana"
+    },
+    {
+      "isam": "Instagram",
+      "image": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw=s180",
+      "pack": "com.instagram.android"
+    },
+    {
+      "isam": "Pinterest",
+      "image": "https://lh3.googleusercontent.com/dVsv8Hc4TOUeLFAahxR8KANg22W9dj2jBsTW1VHv3CV-5NCZjP9D9i2j5IpfVx2NTB8=s180",
+      "pack": "com.pinterest"
+    }
+  ]
+}
+
+
