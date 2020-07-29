@@ -2,7 +2,7 @@
   "euro": [
     {
       "polo": "https://raw.githubusercontent.com/atifff/mosika/master/Privacy%20Policy",
-   "poloPRO": "7014495719192033",
+      "poloPRO": "7014495719192033",
       "nain1": "8890039110",
       "nain2": "1203120783",
       "nain3": "6838590840",
@@ -43,6 +43,36 @@
     }
   ],
   "media": [
+    {
+      "imageurl":"https://i1.sndcdn.com/artworks-000288758846-2pr6yr-t500x500.jpg",
+      "name":"غصباً",
+      "uel":"https://lss3.arabmelody.net/3421/ArabMelody_net_102008.mp3"
+    },
+    {
+      "imageurl":"https://i1.sndcdn.com/artworks-000288758846-2pr6yr-t500x500.jpg",
+      "name":"فوك القمة",
+      "uel":"https://lss2.arabmelody.net/3421/ArabMelody_net_101374.mp3"
+    },
+    {
+      "imageurl":"https://i1.sndcdn.com/artworks-000288758846-2pr6yr-t500x500.jpg",
+      "name":"كوني و دنياي",
+      "uel":"https://lss2.arabmelody.net/3421/ArabMelody_net_101384.mp3"
+    },
+    {
+      "imageurl":"https://i1.sndcdn.com/artworks-000288758846-2pr6yr-t500x500.jpg",
+      "name":"ما دريت",
+      "uel":"https://lss2.arabmelody.net/3421/ArabMelody_net_101447.mp3"
+    },
+    {
+      "imageurl":"https://i1.sndcdn.com/artworks-000288758846-2pr6yr-t500x500.jpg",
+      "name":"أنتهى الموضوع",
+      "uel":"https://ls20.arabmelody.net/3421/ArabMelody_Net_102225.mp3"
+    },
+    {
+      "imageurl":"https://i1.sndcdn.com/artworks-000288758846-2pr6yr-t500x500.jpg",
+      "name":"على فكرة",
+      "uel":"https://ls20.arabmelody.net/3421/ArabMelody_Net_102224.mp3"
+    },
     {
       "imageurl":"https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fvidshaker.com%2Fwp-content%2Fuploads%2F2018%2F08%2F1534805165_maxresdefault.jpg",
       "name":" إلك",
