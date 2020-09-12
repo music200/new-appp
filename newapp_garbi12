@@ -194,7 +194,9 @@
     },
     {
       "app": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpixel.nymag.com%2Fimgs%2Fdaily%2Fvulture%2F2017%2F07%2F31%2F31-pink-floyd-feature.w512.h600.2x.jpg",
-      "url": "free_music.Pink_Floyd"
+      "url": "free_music.Pink_Floyd",
+      "nameApp": "",
+      "dowlodeapp": ""
     }
   ]
 }
